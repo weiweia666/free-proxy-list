@@ -34,11 +34,12 @@ class ProxyListScraper:
             
             for row in rows:
                 cells = row.find_all('td')
-                if len(cells) >= 4:  # 需要至少4列：协议、IP、端口、位置
+                if len(cells) >= 5:  # 需要至少5列：协议、IP、端口、时间、位置
                     protocol = cells[0].text.strip()
                     ip = cells[1].text.strip()
                     port = cells[2].text.strip()
-                    location = cells[3].text.strip() if len(cells) > 3 else "未知"
+                    time =  cells[3].text.strip()
+                    location = cells[4].text.strip() if len(cells) > 4 else "未知"
                     
                     # 清理位置信息中的多余文本
                     location = location.replace('复制', '').replace('已复制', '').replace('已', '').strip()
@@ -46,8 +47,8 @@ class ProxyListScraper:
                     location = ' '.join(location.split())
                     
                     if protocol and ip and port:
-                        # 使用标准代理格式：协议://ip:port [地址位置]
-                        proxy = f"{protocol}://{ip}:{port} [{location}]"
+                        # 使用标准代理格式：协议://ip:port [入库时间] [地址位置]
+                        proxy = f"{protocol}://{ip}:{port} [{in_storage_time}] [{location}]"
                         proxies.append(proxy)
             
             print(f"成功抓取到 {len(proxies)} 个代理")
@@ -68,7 +69,7 @@ class ProxyListScraper:
                 f.write(f"# 代理列表更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
                 f.write(f"# 总计: {len(proxies)} 个代理\n\n")
                 
-                # 写入代理列表 (标准格式：协议://ip:port [地址位置])
+                # 写入代理列表 (标准格式：协议://ip:port [入库时间] [地址位置])
                 for proxy in proxies:
                     f.write(f"{proxy}\n")
             
