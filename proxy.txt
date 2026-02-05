@@ -1,153 +1,153 @@
-# 代理列表更新时间: 2026-02-05 12:00:57
+# 代理列表更新时间: 2026-02-05 23:50:50
 # 总计: 30 个代理
 
-socks5://37.153.158.173:1080 [[机房]
+socks5://89.189.73.99:1080 [[家宽]
                                         
-                                        德国 柏林 柏林
+                                        也门 首都行政区 萨那
                                         
-                                            [Serverbike LTD]]
-socks5://38.255.17.43:1080 [[机房]
+                                            [YemenNet ADSL Pool]]
+socks5://89.189.77.149:1080 [[家宽]
                                         
-                                        美国 加州 埃尔塞贡多
+                                        也门 首都行政区 萨那
                                         
-                                            [Cogent Communications, LLC]]
-socks5://3.120.243.172:1080 [[机房]
+                                            [YemenNet ADSL Pool]]
+socks5://89.189.75.115:1080 [[家宽]
                                         
-                                        德国 黑森州 法兰克福 — 亚马逊云 Aws
+                                        也门
                                         
-                                            [A100 ROW GmbH]]
-socks5://212.251.102.140:1080 [[机房]
+                                            [YemenNet ADSL Pool]]
+socks5://89.189.77.115:1080 [[家宽]
                                         
-                                        希腊 阿提卡大区 雅典
+                                        也门
                                         
-                                            [Multiprotocol Service Provider to other ISP's and End Users]]
-socks5://176.113.37.225:1080 [[机房]
+                                            [YemenNet ADSL Pool]]
+socks5://198.12.111.113:9999 [[机房]
                                         
-                                        俄罗斯 普斯科夫州 普斯科夫
+                                        美国 伊利诺伊州 埃尔克格罗夫村 — RackNerd
                                         
-                                            [Pskovline Ltd.]]
-socks5://144.76.91.190:1080 [[机房]
-                                        
-                                        德国 萨克森州 法尔肯施泰因 — Hetzner
-                                        
-                                            [Hetzner Online GmbH]]
-socks5://144.76.94.91:1080 [[机房]
-                                        
-                                        德国 萨克森州 法尔肯施泰因 — Hetzner
-                                        
-                                            [Hetzner Online GmbH]]
-socks5://152.89.38.226:1080 [[家宽]
-                                        
-                                        土耳其 伊斯坦布尔 伊斯坦布尔
-                                        
-                                            [CIZGI TELEKOMUNIKASYON ANONIM SIRKETI]]
-socks5://38.59.244.113:5555 [[机房]
-                                        
-                                        美国 加州 圣何塞
-                                        
-                                            [HK CEDOC LIMITED]]
-socks5://178.250.191.24:1080 [[家宽]
-                                        
-                                        德国 黑森州 法兰克福
-                                        
-                                            [AS199785 DE iPv4]]
-socks5://185.106.105.10:1080 [[机房]
+                                            [RackNerd LLC]]
+socks5://81.94.139.203:1080 [[机房]
                                         
                                         俄罗斯 莫斯科 莫斯科
                                         
-                                            [PJSC Rostelecom]]
-socks5://46.249.100.237:1080 [[机房]
+                                            [OOO WestCall Ltd.]]
+socks5://1.225.116.115:1080 [[家宽]
                                         
-                                        德国 黑森州 法兰克福
+                                        韩国 首尔特别市 首尔特别市
                                         
-                                            [Parsun Network Solutions PTY LTD]]
-socks5://141.98.197.133:18791 [[机房]
+                                            [SK Broadband Co Ltd]]
+socks5://45.136.212.85:1080 [[机房]
                                         
-                                        日本 东京 东京
+                                        荷兰 北荷兰省 阿姆斯特丹
                                         
-                                            [Greencloud LLC]]
-socks5://146.103.122.196:1080 [[机房]
+                                            [AMS1 45 136 212 0]]
+socks5://13.250.229.154:1080 [[机房]
+                                        
+                                        新加坡 新加坡 新加坡 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Singapore]]
+socks5://194.110.246.25:2000 [[机房]
+                                        
+                                        美国 纽约州 纽约
+                                        
+                                            [Optimum Online]]
+socks5://178.156.208.69:1080 [[机房]
+                                        
+                                        美国 弗吉尼亚州 阿什本 — Hetzner
+                                        
+                                            [Hetzner Online GmbH]]
+socks5://43.134.26.162:1080 [[机房]
+                                        
+                                        新加坡 新加坡 新加坡 — 腾讯云
+                                        
+                                            [6 COLLYER QUAY]]
+socks5://88.210.12.161:1080 [[机房]
                                         
                                         荷兰 北荷兰省 阿姆斯特丹
                                         
                                             [SERVERS TECH FZCO]]
-socks5://35.159.71.169:1080 [[机房]
+socks5://54.226.147.170:1080 [[机房]
                                         
-                                        德国 黑森州 法兰克福 — 亚马逊云 Aws
-                                        
-                                            [A100 ROW GmbH]]
-socks5://8.216.43.141:1080 [[机房]
-                                        
-                                        日本 东京 东京 — 阿里云
-                                        
-                                            [Alibaba Cloud (Singapore) Private Limited]]
-socks5://8.216.44.101:1080 [[机房]
-                                        
-                                        日本 东京 东京 — 阿里云
-                                        
-                                            [Alibaba Cloud (Singapore) Private Limited]]
-socks5://35.209.27.246:18443 [[机房]
-                                        
-                                        美国 艾奥瓦州 康瑟尔布拉夫斯 — 谷歌云 GCP
-                                        
-                                            [Google LLC]]
-socks5://109.187.27.69:1080 [[家宽]
-                                        
-                                        俄罗斯 巴什科尔托斯坦 乌法
-                                        
-                                            [Bashinformsvyaz Company, RUMS, DSL POOL]]
-socks5://46.42.11.42:1080 [[家宽]
-                                        
-                                        俄罗斯 科斯特罗马地区 科斯特羅馬
-                                        
-                                            [OAO KGTS ADSL/HFE Users]]
-socks5://81.68.202.95:18089 [[机房]
-                                        
-                                        美国 加州 洛杉矶 — 搬瓦工
-                                        
-                                            [IT7 Networks Inc]]
-socks5://213.111.146.36:18080 [[机房]
-                                        
-                                        荷兰 北荷兰省 哈勒姆
-                                        
-                                            [VSYS AMS]]
-socks5://45.86.70.94:1080 [[机房]
-                                        
-                                        荷兰 北荷兰省 阿姆斯特丹
-                                        
-                                            [FAST GEO HOSTING S.R.L.]]
-socks5://107.150.41.226:18080 [[机房]
-                                        
-                                        美国 密苏里州 堪萨斯城
-                                        
-                                            [Gventure]]
-socks5://102.37.154.97:1080 [[机房]
-                                        
-                                        南非 豪登省 约翰内斯堡 — 微软云 Azure
-                                        
-                                            [Microsoft (S.A.) (Proprietary) Limited]]
-socks5://77.239.125.57:1080 [[机房]
-                                        
-                                        德国 黑森州 法兰克福
-                                        
-                                            [PLAY2GO INTERNATIONAL LIMITED]]
-socks5://18.191.108.236:1080 [[机房]
-                                        
-                                        美国 俄亥俄州 哥伦布 — 亚马逊云 Aws
+                                        美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws
                                         
                                             [Amazon Technologies Inc.]]
-socks5://85.192.29.195:1080 [[机房]
+socks5://212.12.17.83:1080 [[家宽]
                                         
-                                        德国 黑森州 法兰克福
+                                        俄罗斯 图拉州 圖拉
                                         
-                                            [Aeza International LTD]]
-socks5://78.111.149.103:1080 [[家宽]
+                                            [Client leased link network (IOLA)]]
+socks5://194.67.124.105:8080 [[机房]
                                         
-                                        俄罗斯 伊万诺沃州 伊万诺沃
+                                        俄罗斯 莫斯科 莫斯科
                                         
-                                            [CJSC Comstar-Regions in Ivanovo]]
-socks5://205.198.87.62:5555 [[机房]
+                                            ["Domain names registrar REG.RU", Ltd]]
+socks5://140.238.6.28:1080 [[机房]
                                         
-                                        新加坡 新加坡 皇后镇庄园
+                                        韩国 首尔特别市  — 甲骨文云 Oracle
                                         
-                                            [Eons Data Communications Limited]]
+                                            [Oracle Public Cloud]]
+socks5://40.176.220.185:20000 [[机房]
+                                        
+                                        加拿大 艾伯塔 卡尔加里 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Canada]]
+socks5://40.176.221.58:20000 [[机房]
+                                        
+                                        加拿大 艾伯塔 卡尔加里 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Canada]]
+socks5://40.176.237.147:20000 [[机房]
+                                        
+                                        加拿大 艾伯塔 卡尔加里 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Canada]]
+socks5://40.176.215.1:20000 [[机房]
+                                        
+                                        加拿大 艾伯塔 卡尔加里 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Canada]]
+socks5://40.176.195.79:20000 [[机房]
+                                        
+                                        加拿大 艾伯塔 卡尔加里 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Canada]]
+socks5://40.176.36.166:20000 [[机房]
+                                        
+                                        加拿大 艾伯塔 卡尔加里 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Canada]]
+socks5://40.176.167.103:20000 [[机房]
+                                        
+                                        加拿大 艾伯塔 卡尔加里 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Canada]]
+socks5://40.176.219.253:20000 [[机房]
+                                        
+                                        加拿大 艾伯塔 卡尔加里 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Canada]]
+socks5://40.176.93.172:20000 [[机房]
+                                        
+                                        加拿大 艾伯塔 卡尔加里 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Canada]]
+socks5://40.176.36.204:20000 [[机房]
+                                        
+                                        加拿大 艾伯塔 卡尔加里 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Canada]]
+socks5://40.176.193.212:20000 [[机房]
+                                        
+                                        加拿大 艾伯塔 卡尔加里 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Canada]]
+socks5://40.176.71.57:20000 [[机房]
+                                        
+                                        加拿大 艾伯塔 卡尔加里 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Canada]]
+socks5://40.176.157.195:20000 [[机房]
+                                        
+                                        加拿大 艾伯塔 卡尔加里 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Canada]]
