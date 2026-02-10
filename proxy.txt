@@ -1,26 +1,91 @@
-# 代理列表更新时间: 2026-02-09 14:37:29
+# 代理列表更新时间: 2026-02-10 00:06:25
 # 总计: 30 个代理
 
-socks5://95.220.229.255:1080 [[机房]
+socks5://79.174.82.212:1080 [[机房]
+                                        
+                                        俄罗斯 莫斯科 莫斯科
+                                        
+                                            ["Domain names registrar REG.RU", Ltd]]
+socks5://94.198.104.98:20000 [[机房]
+                                        
+                                        俄罗斯 莫斯科 莫斯科
+                                        
+                                            [DIGIT1 IPOE POOL]]
+socks5://45.150.64.226:40000 [[家宽]
+                                        
+                                        俄罗斯 莫斯科 莫斯科
+                                        
+                                            [UFO Hosting LLC]]
+socks5://91.99.95.118:1080 [[机房]
+                                        
+                                        美国 华盛顿州 韦纳奇
+                                        
+                                            [Ziply Fiber]]
+socks5://109.172.88.29:1080 [[机房]
+                                        
+                                        俄罗斯 莫斯科 莫斯科
+                                        
+                                            [Hosting technology LTD]]
+socks5://45.10.246.5:1080 [[机房]
+                                        
+                                        俄罗斯 新西伯利亚州 新西伯利亚 — Ruvds
+                                        
+                                            [MT FINANCE LLC]]
+socks5://84.252.75.135:1111 [[机房]
+                                        
+                                        俄罗斯 莫斯科 莫斯科
+                                        
+                                            [FIRST SERVER LIMITED]]
+socks5://3.93.231.200:1080 [[机房]
+                                        
+                                        美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Northern Virginia]]
+socks5://202.10.41.128:1080 [[家宽]
+                                        
+                                        印度尼西亚 雅加达 雅加达
+                                        
+                                            [FAJAR INFORMASI GLOBALNET JAYA, PT]]
+socks5://148.253.210.254:1080 [[机房]
+                                        
+                                        德国 黑森州 法兰克福
+                                        
+                                            [GuardNetwork]]
+socks5://212.192.14.219:40000 [[机房]
+                                        
+                                        俄罗斯 莫斯科 莫斯科
+                                        
+                                            [GLOBAL INTERNET SOLUTIONS LLC]]
+socks5://167.94.7.203:60000 [[机房]
+                                        
+                                        加拿大 魁北克省 蒙特利尔
+                                        
+                                            [Sympatico HSE]]
+socks5://194.231.149.5:5555 [[机房]
+                                        
+                                        新加坡 新加坡 新加坡
+                                        
+                                            [ISIF Network (Singapore)]]
+socks5://47.251.249.67:443 [[机房]
+                                        
+                                        美国 加州 洛杉矶 — 阿里云
+                                        
+                                            [Alibaba Cloud - US]]
+socks5://172.245.57.243:1080 [[机房]
+                                        
+                                        美国 德克萨斯州 达拉斯
+                                        
+                                            [Strong Technology, LLC.]]
+socks5://95.220.229.255:1080 [[家宽]
                                         
                                         俄罗斯 莫斯科 莫斯科
                                         
                                             [Net By Net Holding LLC]]
-socks5://109.94.67.250:1080 [[机房]
-                                        
-                                        俄罗斯 特维尔州 特维尔
-                                        
-                                            [Annet Ltd.]]
 socks5://192.229.99.40:58367 [[机房]
                                         
                                         越南 胡志明市 胡志明市
                                         
                                             [SpeedVM Network Group LLC]]
-socks5://23.19.231.152:50161 [[机房]
-                                        
-                                        美国 加州 洛杉矶
-                                        
-                                            [LeaseWeb USA, Inc. Los Angeles]]
 socks5://107.174.222.172:1080 [[机房]
                                         
                                         美国 加州 洛杉矶
@@ -46,11 +111,6 @@ socks5://194.110.246.25:2000 [[机房]
                                         美国 印第安纳州 韋恩堡
                                         
                                             [Comcast Cable Communications, LLC]]
-socks5://77.41.154.11:1080 [[家宽]
-                                        
-                                        俄罗斯 莫斯科 莫斯科
-                                        
-                                            [111250 Russia SOVINTEL/EDN et IzSvyazInvest]]
 socks5://118.99.72.232:1080 [[家宽]
                                         
                                         印度尼西亚 西爪哇省 万隆
@@ -86,68 +146,8 @@ socks5://35.212.134.247:1080 [[机房]
                                         美国 俄勒冈州 达尔斯 — 谷歌云 GCP
                                         
                                             [Google LLC]]
-socks5://5.175.183.141:8080 [[机房]
-                                        
-                                        德国 黑森州 法兰克福
-                                        
-                                            [GHOSTnet GmbH]]
 socks5://151.252.51.218:15 [[机房]
                                         
                                         瑞典 斯德哥尔摩省 斯德哥尔摩
                                         
                                             [R0CKET CLOUD 2]]
-socks5://151.252.51.214:15 [[机房]
-                                        
-                                        瑞典 斯德哥尔摩省 斯德哥尔摩
-                                        
-                                            [R0CKET CLOUD 2]]
-socks5://151.252.51.216:15 [[机房]
-                                        
-                                        瑞典 斯德哥尔摩省 斯德哥尔摩
-                                        
-                                            [R0CKET CLOUD 2]]
-socks5://151.252.51.192:15 [[机房]
-                                        
-                                        瑞典 斯德哥尔摩省 斯德哥尔摩
-                                        
-                                            [R0CKET CLOUD 2]]
-socks5://151.252.51.213:15 [[机房]
-                                        
-                                        瑞典 斯德哥尔摩省 斯德哥尔摩
-                                        
-                                            [R0CKET CLOUD 2]]
-socks5://151.252.51.215:15 [[机房]
-                                        
-                                        瑞典 斯德哥尔摩省 斯德哥尔摩
-                                        
-                                            [R0CKET CLOUD 2]]
-socks5://78.46.109.69:1080 [[家宽]
-                                        
-                                        意大利 皮埃蒙特 都灵
-                                        
-                                            [Telecom Italia Mobile]]
-socks5://152.53.14.196:9050 [[机房]
-                                        
-                                        荷兰 北荷兰省 阿姆斯特丹
-                                        
-                                            [TOR EXIT AND MORE]]
-socks5://8.220.247.98:5555 [[机房]
-                                        
-                                        韩国 首尔特别市 首尔特别市 — 阿里云
-                                        
-                                            [Alibaba Cloud LLC]]
-socks5://185.106.105.10:1080 [[机房]
-                                        
-                                        俄罗斯 莫斯科 莫斯科
-                                        
-                                            [PJSC Rostelecom]]
-socks5://138.197.124.55:9160 [[机房]
-                                        
-                                        美国 纽约州
-                                        
-                                            [Fourplex Telecom LLC]]
-socks5://47.80.10.118:5555 [[机房]
-                                        
-                                        韩国 首尔特别市 首尔特别市 — 阿里云
-                                        
-                                            [Alibaba Cloud LLC]]
