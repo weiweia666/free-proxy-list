@@ -1,153 +1,153 @@
-# 代理列表更新时间: 2026-02-10 14:45:00
+# 代理列表更新时间: 2026-02-11 05:18:45
 # 总计: 30 个代理
 
-socks5://37.110.225.76:1080 [[家宽]
+socks5://128.127.145.7:1080 [[机房]
                                         
-                                        俄罗斯 别尔哥罗德州
+                                        俄罗斯 彼爾姆邊疆區 索利卡姆斯克
                                         
-                                            [CJSC "Oskolnet"]]
-socks5://167.71.226.135:1080 [[机房]
+                                            [RUBIN LLC.]]
+socks5://149.28.8.135:1080 [[机房]
                                         
-                                        印度 卡纳塔克邦  — DigitalOcean
+                                        美国 华盛顿州 肯特 — Vultr
                                         
-                                            [DigitalOcean, LLC]]
-socks5://134.209.105.158:1080 [[家宽]
+                                            [Vultr Holdings, LLC]]
+socks5://195.14.26.213:1080 [[机房]
                                         
-                                        印度尼西亚 西爪哇省
+                                        波兰 下西里西亚省
                                         
-                                            [Biznet Networks]]
-socks5://51.250.79.146:1080 [[机房]
+                                            [WZSERWIS]]
+socks5://31.58.77.57:1080 [[机房]
                                         
-                                        俄罗斯 莫斯科 莫斯科
+                                        拉脱维亚 里加 里加
                                         
-                                            [Yandex.Cloud LLC]]
-socks5://185.155.98.48:9000 [[机房]
+                                            [CGI GLOBAL LIMITED]]
+socks5://31.14.115.178:1080 [[机房]
                                         
-                                        爱沙尼亚 哈尔尤县 塔林
+                                        德国 黑森州 法兰克福 — DigitalOcean
                                         
-                                            [RJ Network OU]]
-socks5://78.132.141.11:1080 [[家宽]
+                                            [DIGITALOCEAN]]
+socks5://31.14.17.231:1080 [[机房]
                                         
-                                        俄罗斯 坦波夫州 坦波夫
+                                        奥地利 下奧地利州 朗根策斯多夫
                                         
-                                            [OJSC Rostelecom, Tambov branch]]
-socks5://129.80.35.137:1080 [[机房]
+                                            [Alwyzon, a trading name of Hohl IT e.U.]]
+socks5://142.93.1.158:60000 [[机房]
                                         
-                                        美国 弗吉尼亚州 阿什本 — 甲骨文云 Oracle
+                                        美国 马里兰州
                                         
-                                            [Oracle Corporation]]
-socks5://62.231.17.109:1080 [[家宽]
+                                            [Comcast Cable Communications, LLC]]
+socks5://37.232.219.161:1080 [[家宽]
                                         
-                                        俄罗斯 斯塔夫罗波尔克雷 五山城
+                                        俄罗斯
                                         
-                                            [111250 Russia EDN/SOVINTEL]]
-socks5://177.37.163.167:1080 [[机房]
+                                            [Net By Net Holding LLC]]
+socks5://46.29.236.157:1080 [[机房]
                                         
-                                        巴西 北里奥格兰德州
+                                        荷兰 北荷兰省 阿姆斯特丹
                                         
-                                            [Brisanet Servicos De Telecomunicacoes Ltda]]
-socks5://152.32.255.24:27197 [[机房]
+                                            [ZTV CORP]]
+socks5://146.19.254.101:5555 [[机房]
                                         
-                                        越南 胡志明市 胡志明市 — UCloud
+                                        荷兰 北荷兰省 阿姆斯特丹
                                         
-                                            [UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED]]
-socks5://35.159.119.85:1080 [[机房]
+                                            [BV NA29]]
+socks5://45.152.170.68:1080 [[家宽]
                                         
-                                        德国 黑森州 法兰克福 — 亚马逊云 Aws
+                                        俄罗斯 滨海边疆区 海参崴
                                         
-                                            [A100 ROW GmbH]]
-socks5://103.150.100.208:1080 [[机房]
+                                            [INFRA 4]]
+socks5://108.165.120.10:1080 [[机房]
                                         
-                                        印度尼西亚 西爪哇省 茂物市
+                                        美国 密苏里州 堪萨斯城
                                         
-                                            [PT Biznet Gio Nusantara]]
-socks5://103.150.196.70:1080 [[机房]
+                                            [Snaju Development]]
+socks5://177.215.202.121:1080 [[家宽]
                                         
-                                        印度尼西亚 西爪哇省 勿加泗
+                                        巴西 圣保罗 圣保罗
                                         
-                                            [PT Biznet Gio Nusantara]]
-socks5://103.150.196.230:1080 [[机房]
+                                            [Qnax Ltda]]
+socks5://87.121.112.46:1080 [[家宽]
                                         
-                                        印度尼西亚 西爪哇省 勿加泗
+                                        保加利亚 索非亚首都区 索菲亚
                                         
-                                            [PT Biznet Gio Nusantara]]
-socks5://103.150.196.89:1080 [[机房]
+                                            [clientcheck.porscheleasing.bg]]
+socks5://120.41.152.25:1080 [[家宽]
                                         
-                                        印度尼西亚 西爪哇省 勿加泗
+                                        中国 香港 香港
                                         
-                                            [PT Biznet Gio Nusantara]]
-socks5://152.53.171.242:26949 [[机房]
+                                            [Hong Kong Telecommunications (HKT) Limited Mass Internet]]
+socks5://51.68.209.5:1080 [[机房]
                                         
-                                        澳大利亚 新南威尔士州 悉尼
+                                        英国 英格兰 伦敦 — OVH
                                         
-                                            [Spintel Pty Ltd]]
-socks5://54.163.24.238:1080 [[机房]
+                                            [OVH Ltd]]
+socks5://70.39.195.158:1080 [[机房]
                                         
-                                        美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws
+                                        美国 加州 洛杉矶
                                         
-                                            [Amazon Technologies Inc.]]
-socks5://80.237.105.31:1080 [[家宽]
+                                            [GTT Communications Inc.]]
+socks5://85.133.240.207:1080 [[机房]
                                         
-                                        俄罗斯 伊万诺沃州
+                                        伊朗 法爾斯省 设拉子
                                         
-                                            [(YA000344) IRTEK,]]
-socks5://195.190.121.154:1080 [[家宽]
+                                            [DyarWeb]]
+socks5://85.133.240.148:1080 [[机房]
                                         
-                                        俄罗斯 圣彼得堡 圣彼得堡
+                                        伊朗 法爾斯省 设拉子
                                         
-                                            [Interface & routed network]]
-socks5://185.106.105.10:1080 [[机房]
+                                            [DyarWeb]]
+socks5://85.133.240.197:1080 [[机房]
                                         
-                                        俄罗斯 莫斯科 莫斯科
+                                        伊朗 法爾斯省 设拉子
                                         
-                                            [PJSC Rostelecom]]
-socks5://38.190.107.210:1080 [[机房]
+                                            [DyarWeb]]
+socks5://85.133.240.44:1080 [[机房]
                                         
-                                        多米尼加
+                                        伊朗 法爾斯省 设拉子
                                         
-                                            [Cogent Communications, LLC]]
-socks5://80.82.40.129:1080 [[家宽]
+                                            [DyarWeb]]
+socks5://85.133.240.185:1080 [[机房]
                                         
-                                        俄罗斯 沃罗涅日州 沃罗涅日
+                                        伊朗 法爾斯省 设拉子
                                         
-                                            [Regional multiservice network access]]
-socks5://195.248.240.139:1080 [[机房]
+                                            [DyarWeb]]
+socks5://85.133.240.167:1080 [[机房]
                                         
-                                        德国 黑森州 法兰克福 — Cloudflare CDN 节点
+                                        伊朗 法爾斯省 设拉子
                                         
-                                            [Cloudflare, Inc.]]
-socks5://37.122.57.143:1080 [[家宽]
+                                            [DyarWeb]]
+socks5://85.133.240.208:1080 [[机房]
                                         
-                                        俄罗斯 巴什科尔托斯坦 乌法
+                                        伊朗 法爾斯省 设拉子
                                         
-                                            [IP address space for Bashkiriya Branch]]
-socks5://77.93.42.198:1080 [[家宽]
+                                            [DyarWeb]]
+socks5://85.133.240.33:1080 [[机房]
                                         
-                                        乌克兰 基辅州 基辅
+                                        伊朗 法爾斯省 设拉子
                                         
-                                            [SOUZ 1st NET]]
-socks5://116.104.207.148:1080 [[家宽]
+                                            [DyarWeb]]
+socks5://85.133.240.176:1080 [[机房]
                                         
-                                        越南
+                                        伊朗 法爾斯省 设拉子
                                         
-                                            [Viettel Group]]
-socks5://116.104.205.220:1080 [[家宽]
+                                            [DyarWeb]]
+socks5://85.133.240.41:1080 [[机房]
                                         
-                                        越南
+                                        伊朗 法爾斯省 设拉子
                                         
-                                            [Viettel Group]]
-socks5://8.217.97.83:5555 [[机房]
+                                            [DyarWeb]]
+socks5://85.133.240.166:1080 [[机房]
                                         
-                                        美国 加州 洛杉矶 — JustHost
+                                        伊朗 法爾斯省 设拉子
                                         
-                                            [Baxet Group Inc.]]
-socks5://194.135.17.31:1080 [[家宽]
+                                            [DyarWeb]]
+socks5://85.133.240.183:1080 [[机房]
                                         
-                                        俄罗斯 圣彼得堡 圣彼得堡
+                                        伊朗 法爾斯省 设拉子
                                         
-                                            [Reliable Communications s.r.o.]]
-socks5://45.93.29.204:1080 [[家宽]
+                                            [DyarWeb]]
+socks5://85.133.240.210:1080 [[机房]
                                         
-                                        韩国 仁川 仁川广域市
+                                        伊朗 法爾斯省 设拉子
                                         
-                                            [SK Broadband Co Ltd]]
+                                            [DyarWeb]]
