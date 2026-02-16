@@ -1,153 +1,153 @@
-# 代理列表更新时间: 2026-02-15 23:54:44
+# 代理列表更新时间: 2026-02-16 12:04:03
 # 总计: 30 个代理
 
-socks5://43.153.148.248:1080 [[机房]
+socks5://192.227.234.209:1080 [[机房]
                                         
-                                        日本 东京 东京 — 腾讯云
+                                        美国 德克萨斯州 达拉斯 — RackNerd
                                         
-                                            [16 COLLYER QUAY # 18-29 INCOME AT RAFFLES]]
-socks5://181.102.169.209:1080 [[机房]
+                                            [RackNerd LLC]]
+socks5://192.227.173.69:1080 [[机房]
                                         
-                                        美国 佛罗里达州 迈阿密 — Vultr
+                                        美国 纽约州 水牛城 — Cloudflare CDN 节点
                                         
-                                            [Vultr Holdings, LLC]]
-socks5://181.102.142.176:1080 [[机房]
+                                            [CLOUDFLAREWARP]]
+socks5://64.188.72.204:1080 [[机房]
                                         
-                                        美国 弗吉尼亚州 马纳萨斯
+                                        德国 黑森州 法兰克福
                                         
-                                            [US NETCUP KVM MNZ]]
-socks5://181.102.211.149:1080 [[机房]
+                                            [Cloud Hosting Solutions, Limited.]]
+socks5://64.188.89.101:1080 [[机房]
                                         
-                                        美国 弗吉尼亚州 马纳萨斯
+                                        德国 黑森州 法兰克福
                                         
-                                            [netcup GmbH]]
-socks5://181.102.42.13:1080 [[机房]
+                                            [SERV.HOST GROUP LTD]]
+socks5://85.113.12.130:1080 [[家宽]
+                                        
+                                        吉尔吉斯斯坦 伊塞克湖州 巴雷克奇
+                                        
+                                            [OSH-DSLAMS-AND-CLIENTS]]
+socks5://38.60.163.186:1111 [[机房]
+                                        
+                                        美国 加州 山景城
+                                        
+                                            [Kaopu Cloud HK Limited]]
+socks5://193.43.159.144:1080 [[家宽]
+                                        
+                                        叙利亚 大马士革省 大马士革
+                                        
+                                            [Wafa Telecom J.S.C]]
+socks5://181.82.102.235:1080 [[机房]
+                                        
+                                        美国 佛罗里达州 迈阿密 — Linode
+                                        
+                                            [Linode]]
+socks5://181.82.136.52:1080 [[机房]
+                                        
+                                        美国 密苏里州 堪萨斯城
+                                        
+                                            [IONOS Inc.]]
+socks5://181.82.116.224:1080 [[机房]
+                                        
+                                        美国 加州 洛杉矶
+                                        
+                                            [Psychz Networks]]
+socks5://181.82.95.114:1080 [[机房]
                                         
                                         美国 新泽西州 克利夫顿 — DigitalOcean
                                         
                                             [DigitalOcean, LLC]]
-socks5://181.102.90.87:1080 [[机房]
+socks5://181.82.55.196:1080 [[机房]
+                                        
+                                        美国 新泽西州 克利夫顿 — DigitalOcean
+                                        
+                                            [DigitalOcean, LLC]]
+socks5://181.82.226.53:1080 [[机房]
                                         
                                         美国 弗吉尼亚州 马纳萨斯
                                         
                                             [US NETCUP KVM MNZ]]
-socks5://185.21.14.145:1080 [[机房]
+socks5://181.82.239.236:1080 [[机房]
+                                        
+                                        美国 弗吉尼亚州 马纳萨斯
+                                        
+                                            [US NETCUP KVM MNZ]]
+socks5://181.101.123.154:1080 [[机房]
+                                        
+                                        美国 新泽西州 克利夫顿 — DigitalOcean
+                                        
+                                            [DigitalOcean, LLC]]
+socks5://37.220.83.112:1080 [[机房]
+                                        
+                                        波兰 马佐维亚省 華沙
+                                        
+                                            [Timeweb, LLP]]
+socks5://37.220.83.75:1080 [[机房]
+                                        
+                                        德国 黑森州 法兰克福
+                                        
+                                            [Timeweb, LLP]]
+socks5://95.84.154.145:1080 [[机房]
                                         
                                         荷兰 北荷兰省 阿姆斯特丹
                                         
-                                            [SERVERS TECH FZCO]]
-socks5://38.180.101.225:1080 [[机房]
+                                            [Timeweb, LLP]]
+socks5://51.79.181.189:1080 [[机房]
                                         
-                                        塞尔维亚 中塞尔维亚 贝尔格莱德
+                                        新加坡 新加坡 新加坡 — OVH
                                         
-                                            [3NT SOLUTIONS LLP]]
-socks5://62.192.248.76:1080 [[家宽]
+                                            [OVH Singapore PTE. LTD]]
+socks5://109.110.188.131:1080 [[机房]
                                         
-                                        俄罗斯 阿尔汉格尔斯卡娅
+                                        印度尼西亚 雅加达 雅加达
                                         
-                                            [Arkhangelsk Television Company]]
-socks5://8.217.104.188:1080 [[机房]
+                                            [LIVAPROXY YAZILIM TICARET LIMITED SIRKETI]]
+socks5://109.110.51.153:1080 [[家宽]
                                         
-                                        中国 香港 香港 — 阿里云
+                                        俄罗斯 滨海边疆区 海参崴
                                         
-                                            [Aliyun Computing Co.LTD]]
-socks5://8.217.129.162:1080 [[机房]
-                                        
-                                        中国 香港 香港 — 阿里云
-                                        
-                                            [Aliyun Computing Co.LTD]]
-socks5://79.52.170.178:1080 [[机房]
-                                        
-                                        意大利 拉齐奥大区 罗马市
-                                        
-                                            [NAS DHCP Pool Pisa]]
-socks5://51.4.59.110:1080 [[机房]
-                                        
-                                        以色列 特拉维夫 特拉维夫 — Cloudflare CDN 节点
-                                        
-                                            [CLOUDFLAREWARP]]
-socks5://185.155.99.106:1080 [[机房]
-                                        
-                                        爱沙尼亚 哈尔尤县 塔林
-                                        
-                                            [RJ Network OU]]
-socks5://78.85.170.162:1080 [[家宽]
-                                        
-                                        俄罗斯 乌德穆尔蒂亚共和国
-                                        
-                                            [abuse mailbox: [email protected]]]
-socks5://194.164.217.243:1080 [[机房]
-                                        
-                                        德国 柏林 柏林
-                                        
-                                            [Digitalcourage e.V.]]
-socks5://194.164.217.230:1080 [[机房]
-                                        
-                                        荷兰 北荷兰省 阿姆斯特丹
-                                        
-                                            [TOR EXIT AND MORE]]
-socks5://118.114.200.231:1080 [[机房]
-                                        
-                                        美国 加州 洛杉矶 — 搬瓦工
-                                        
-                                            [IT7 Networks Inc]]
-socks5://185.105.4.155:60000 [[机房]
-                                        
-                                        美国 加州 洛杉矶
-                                        
-                                            [Packethub S.A.]]
-socks5://110.172.29.164:8080 [[机房]
-                                        
-                                        越南 胡志明市 胡志明市 — Contabo
-                                        
-                                            [Contabo Company Limited]]
-socks5://78.140.243.125:1080 [[家宽]
+                                            [Podryad - Customer Pool - 2]]
+socks5://37.139.33.190:1080 [[机房]
                                         
                                         俄罗斯 莫斯科 莫斯科
                                         
-                                            [RU ITGLOBAL]]
-socks5://94.177.145.94:1080 [[机房]
+                                            [VK Cloud Solutions]]
+socks5://5.129.250.144:1080 [[机房]
                                         
-                                        西班牙 马德里自治区 马德里
+                                        荷兰 北荷兰省 阿姆斯特丹
                                         
-                                            [Snowd Security OU]]
-socks5://85.193.89.249:1080 [[机房]
+                                            [TW Cloud]]
+socks5://159.65.113.122:1080 [[机房]
                                         
-                                        俄罗斯 圣彼得堡 圣彼得堡
+                                        德国 黑森州 法兰克福 — DigitalOcean
                                         
-                                            [JSC "TIMEWEB"]]
-socks5://45.185.210.41:1080 [[机房]
+                                            [DigitalOcean, LLC]]
+socks5://94.131.8.31:1080 [[机房]
                                         
-                                        巴西 里约热内卢 里约热内卢
+                                        美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws
                                         
-                                            [J J T SANTOS - SERVICOS WEB E SOLUCOES PARA INTERN]]
-socks5://156.238.250.212:5555 [[机房]
+                                            [Amazon Technologies Inc.]]
+socks5://94.131.110.91:1080 [[机房]
                                         
-                                        美国 加州 洛杉矶
+                                        德国 黑森州 法兰克福
                                         
-                                            [cognetcloud INC]]
-socks5://156.238.250.48:5555 [[机房]
+                                            [WorkTitans B.V.]]
+socks5://146.0.77.10:1080 [[机房]
                                         
-                                        美国 加州 洛杉矶
+                                        荷兰 北荷兰省 阿姆斯特丹
                                         
-                                            [cognetcloud INC]]
-socks5://156.238.250.143:5555 [[机房]
+                                            [HOSTKEY NET]]
+socks5://146.0.73.222:1080 [[机房]
                                         
-                                        美国 加州 洛杉矶
+                                        俄罗斯 莫斯科 莫斯科
                                         
-                                            [cognetcloud INC]]
-socks5://156.238.250.52:5555 [[机房]
+                                            [Moscow Local Telephone Network (OAO MGTS)]]
+socks5://107.175.76.21:1080 [[机房]
                                         
-                                        美国 加州 洛杉矶
+                                        美国 纽约州 水牛城
                                         
-                                            [cognetcloud INC]]
-socks5://115.127.53.114:1080 [[机房]
+                                            [HostPapa]]
+socks5://159.69.149.94:40000 [[机房]
                                         
-                                        孟加拉国 达卡专区 达卡
+                                        德国 巴伐利亚 纽伦堡 — Cloudflare CDN 节点
                                         
-                                            [BRACNet Limited]]
-socks5://107.149.96.2:1080 [[机房]
-                                        
-                                        美国 华盛顿州 西雅图
-                                        
-                                            [PEG TECH INC]]
+                                            [Cloudflare, Inc.]]
