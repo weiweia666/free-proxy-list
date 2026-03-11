@@ -1,6 +1,91 @@
-# 代理列表更新时间: 2026-03-10 23:25:43
+# 代理列表更新时间: 2026-03-11 11:24:05
 # 总计: 30 个代理
 
+socks5://116.103.22.13:5000 [[家宽]
+                                        
+                                        越南
+                                        
+                                            [Viettel Group]]
+socks5://116.103.21.132:5000 [[家宽]
+                                        
+                                        越南
+                                        
+                                            [Viettel Group]]
+socks5://116.103.21.97:5000 [[家宽]
+                                        
+                                        越南
+                                        
+                                            [Viettel Group]]
+socks5://116.103.21.213:5000 [[家宽]
+                                        
+                                        越南
+                                        
+                                            [Viettel Group]]
+socks5://116.103.21.34:5000 [[家宽]
+                                        
+                                        越南
+                                        
+                                            [Viettel Group]]
+socks5://116.103.21.120:5000 [[家宽]
+                                        
+                                        越南
+                                        
+                                            [Viettel Group]]
+socks5://116.103.21.54:5000 [[家宽]
+                                        
+                                        越南
+                                        
+                                            [Viettel Group]]
+socks5://91.196.34.45:1080 [[机房]
+                                        
+                                        德国 黑森州 法兰克福
+                                        
+                                            [SERV.HOST GROUP LTD]]
+socks5://91.241.231.81:10801 [[机房]
+                                        
+                                        英国 英格兰 伦敦 — OVH
+                                        
+                                            [OVH Ltd]]
+socks5://103.178.57.161:1080 [[家宽]
+                                        
+                                        中国 香港 香港
+                                        
+                                            [Shenzhen Qiyi Network Technology Co., Ltd.]]
+socks5://45.207.211.151:1080 [[机房]
+                                        
+                                        中国 香港 香港
+                                        
+                                            [Vapeline Technology]]
+socks5://118.40.5.124:1080 [[机房]
+                                        
+                                        韩国 光州广域市 光州广域市
+                                        
+                                            [Korea Telecom]]
+socks5://114.254.95.149:10808 [[家宽]
+                                        
+                                        中国 香港 香港
+                                        
+                                            [PAN-LIAN TECH LIMITED]]
+socks5://92.124.136.63:1080 [[家宽]
+                                        
+                                        俄罗斯 鄂木斯克州 鄂木斯克
+                                        
+                                            [OJSC "Sibirtelecom"]]
+socks5://62.182.85.58:1080 [[机房]
+                                        
+                                        乌克兰 基辅州 基辅
+                                        
+                                            [Virtual Systems LLC]]
+socks5://175.0.60.104:1080 [[机房]
+                                        
+                                        美国 加州 洛杉矶 — 搬瓦工
+                                        
+                                            [IT7 Networks Inc]]
+socks5://77.238.228.40:1080 [[机房]
+                                        
+                                        荷兰 北荷兰省 阿姆斯特丹
+                                        
+                                            [VDSINA]]
 socks5://95.71.150.133:1080 [[家宽]
                                         
                                         俄罗斯 奥伦堡州 奥伦堡
@@ -36,11 +121,6 @@ socks5://163.44.197.192:1080 [[机房]
                                         泰国 曼谷 曼谷
                                         
                                             [ZCOM THAI]]
-socks5://159.54.160.87:40000 [[机房]
-                                        
-                                        美国 加州 圣何塞 — 甲骨文云 Oracle
-                                        
-                                            [Oracle Corporation]]
 socks5://45.141.234.150:1080 [[机房]
                                         
                                         爱尔兰 伦斯特省 都柏林
@@ -71,83 +151,3 @@ socks5://193.221.200.0:1080 [[机房]
                                         德国 黑森州 法兰克福
                                         
                                             [NL 10]]
-socks5://91.107.141.42:8081 [[机房]
-                                        
-                                        德国 萨克森州 法尔肯施泰因 — Hetzner
-                                        
-                                            [Hetzner Online GmbH]]
-socks5://45.87.41.190:9090 [[机房]
-                                        
-                                        荷兰 北荷兰省 阿姆斯特丹
-                                        
-                                            [SpectraIP B.V.]]
-socks5://89.116.187.221:1080 [[机房]
-                                        
-                                        美国 加州 伯班克
-                                        
-                                            [Charter Communications Inc]]
-socks5://64.176.183.231:5000 [[机房]
-                                        
-                                        英国 英格兰  — Vultr
-                                        
-                                            [The Constant Company, LLC]]
-socks5://206.123.156.197:5004 [[家宽]
-                                        
-                                        美国 德克萨斯州 达拉斯
-                                        
-                                            [ASR-IT.COM For Web Services]]
-socks5://206.123.156.215:5006 [[家宽]
-                                        
-                                        美国 德克萨斯州 达拉斯
-                                        
-                                            [ASR-IT.COM For Web Services]]
-socks5://206.123.156.206:5006 [[家宽]
-                                        
-                                        美国 德克萨斯州 达拉斯
-                                        
-                                            [ASR-IT.COM For Web Services]]
-socks5://206.123.156.177:5006 [[家宽]
-                                        
-                                        美国 乔治亚州 亚特兰大
-                                        
-                                            [Unified Layer]]
-socks5://206.123.156.179:5005 [[机房]
-                                        
-                                        摩尔多瓦 基希讷乌市 基希讷乌
-                                        
-                                            [Trabia SRL]]
-socks5://206.123.156.199:5004 [[机房]
-                                        
-                                        摩尔多瓦 基希讷乌市 基希讷乌
-                                        
-                                            [Trabia SRL]]
-socks5://130.193.44.12:10808 [[机房]
-                                        
-                                        荷兰 北荷兰省 阿姆斯特丹
-                                        
-                                            [SERVERS TECH FZCO]]
-socks5://212.41.30.108:10808 [[机房]
-                                        
-                                        荷兰 林堡省
-                                        
-                                            [PLAY2GO INTERNATIONAL LIMITED]]
-socks5://212.41.26.160:10808 [[机房]
-                                        
-                                        俄罗斯 莫斯科 莫斯科
-                                        
-                                            [Baykov Ilya Sergeevich]]
-socks5://168.138.9.147:1080 [[机房]
-                                        
-                                        澳大利亚 维多利亚州 墨尔本 — 甲骨文云 Oracle
-                                        
-                                            [Oracle Public Cloud]]
-socks5://31.135.34.78:1080 [[机房]
-                                        
-                                        俄罗斯
-                                        
-                                            [Ray-Svyaz Ltd.]]
-socks5://202.79.26.254:1080 [[机房]
-                                        
-                                        柬埔寨 金边 金边
-                                        
-                                            [# 426Eo, Monivong, Boeung Keng Kang I Chamkar Mon, Phnom Penh, Cambodia]]
