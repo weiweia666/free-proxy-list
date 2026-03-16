@@ -1,153 +1,153 @@
-# 代理列表更新时间: 2026-03-16 11:38:06
+# 代理列表更新时间: 2026-03-16 23:30:04
 # 总计: 30 个代理
 
-socks5://181.106.197.157:1080 [[机房]
+socks5://123.58.219.171:10808 [[机房]
                                         
-                                        美国 乔治亚州  — DigitalOcean
+                                        中国 香港 香港 — UCloud
                                         
-                                            [DigitalOcean, LLC]]
-socks5://37.49.224.243:1080 [[机房]
+                                            [UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED]]
+socks5://43.128.153.25:1080 [[机房]
                                         
-                                        荷兰 北荷兰省 阿姆斯特丹
+                                        韩国 首尔特别市 首尔特别市 — 腾讯云
                                         
-                                            [ESTOXY OU]]
-socks5://37.110.1.50:60000 [[机房]
+                                            [6 COLLYER QUAY]]
+socks5://43.128.141.234:1080 [[机房]
                                         
-                                        美国 马萨诸塞州
+                                        韩国 首尔特别市 首尔特别市 — 腾讯云
                                         
-                                            [Verizon Business]]
-socks5://5.61.47.238:4444 [[机房]
+                                            [6 COLLYER QUAY]]
+socks5://43.128.134.172:1080 [[机房]
                                         
-                                        德国 黑森州 法兰克福
+                                        韩国 首尔特别市 首尔特别市 — 腾讯云
                                         
-                                            [IROKO Networks Corporation]]
-socks5://93.88.205.73:1080 [[机房]
+                                            [6 COLLYER QUAY]]
+socks5://43.128.153.138:1080 [[机房]
                                         
-                                        荷兰 北荷兰省 阿姆斯特丹
+                                        韩国 首尔特别市 首尔特别市 — 腾讯云
                                         
-                                            [NKtelecom INC]]
-socks5://3.20.18.66:6000 [[机房]
+                                            [6 COLLYER QUAY]]
+socks5://43.128.133.65:1080 [[机房]
                                         
-                                        美国 俄亥俄州 哥伦布 — 亚马逊云 Aws
+                                        韩国 首尔特别市 首尔特别市 — 腾讯云
                                         
-                                            [Amazon Technologies Inc.]]
-socks5://23.95.132.41:1080 [[机房]
+                                            [6 COLLYER QUAY]]
+socks5://43.128.141.68:1080 [[机房]
                                         
-                                        美国 纽约州 水牛城
+                                        韩国 首尔特别市 首尔特别市 — 腾讯云
                                         
-                                            [Mikhel Francis yap]]
+                                            [6 COLLYER QUAY]]
+socks5://43.128.147.20:1080 [[机房]
+                                        
+                                        韩国 首尔特别市 首尔特别市 — 腾讯云
+                                        
+                                            [6 COLLYER QUAY]]
+socks5://43.128.134.231:1080 [[机房]
+                                        
+                                        韩国 首尔特别市 首尔特别市 — 腾讯云
+                                        
+                                            [6 COLLYER QUAY]]
+socks5://43.128.140.39:1080 [[机房]
+                                        
+                                        韩国 首尔特别市 首尔特别市 — 腾讯云
+                                        
+                                            [6 COLLYER QUAY]]
+socks5://43.128.136.189:1080 [[机房]
+                                        
+                                        韩国 首尔特别市 首尔特别市 — 腾讯云
+                                        
+                                            [6 COLLYER QUAY]]
+socks5://43.128.135.198:1080 [[机房]
+                                        
+                                        韩国 首尔特别市 首尔特别市 — 腾讯云
+                                        
+                                            [6 COLLYER QUAY]]
+socks5://43.128.131.168:1080 [[机房]
+                                        
+                                        韩国 首尔特别市 首尔特别市 — 腾讯云
+                                        
+                                            [6 COLLYER QUAY]]
+socks5://43.128.132.50:1080 [[机房]
+                                        
+                                        韩国 首尔特别市 首尔特别市 — 腾讯云
+                                        
+                                            [6 COLLYER QUAY]]
+socks5://43.128.143.237:1080 [[机房]
+                                        
+                                        韩国 首尔特别市 首尔特别市 — 腾讯云
+                                        
+                                            [6 COLLYER QUAY]]
+socks5://43.128.252.148:1080 [[机房]
+                                        
+                                        日本 东京 东京 — 腾讯云
+                                        
+                                            [6 COLLYER QUAY]]
+socks5://43.128.69.57:1080 [[机房]
+                                        
+                                        新加坡 新加坡 新加坡 — 腾讯云
+                                        
+                                            [6 COLLYER QUAY]]
+socks5://69.48.207.154:1080 [[机房]
+                                        
+                                        美国 密苏里州 堪萨斯城
+                                        
+                                            [IONOS Inc.]]
+socks5://170.81.103.113:1080 [[家宽]
+                                        
+                                        巴西 巴伊亚州 卡馬薩里
+                                        
+                                            [Viva Tecnologia Telecom]]
+socks5://95.140.157.232:1080 [[机房]
+                                        
+                                        波兰 马佐维亚省 华沙
+                                        
+                                            [lease for Timeweb]]
+socks5://109.105.91.146:1080 [[家宽]
+                                        
+                                        俄罗斯
+                                        
+                                            [JSC RITC]]
 socks5://158.101.8.92:1080 [[机房]
                                         
                                         瑞士 弗里堡  — BuyVM
                                         
                                             [BuyVM]]
-socks5://195.190.121.154:1080 [[家宽]
+socks5://149.50.116.240:1080 [[机房]
                                         
-                                        俄罗斯 圣彼得堡 圣彼得堡
+                                        波兰 马佐维亚省 华沙
                                         
-                                            [Interface & routed network]]
-socks5://195.69.169.126:1080 [[机房]
+                                            [MEVSPACE]]
+socks5://137.131.202.67:50161 [[机房]
                                         
-                                        俄罗斯 巴什科尔托斯坦 斯捷尔利塔马克
+                                        巴西 圣保罗 圣保罗 — 甲骨文云 Oracle
                                         
-                                            [JSC "Company TransTeleCom"]]
-socks5://104.168.143.241:1080 [[机房]
+                                            [Oracle Corporation]]
+socks5://47.239.75.118:8383 [[机房]
                                         
-                                        中国 香港 香港
+                                        中国 香港 香港 — 阿里云
                                         
-                                            [Teen Telecom SRL]]
-socks5://104.168.141.199:1080 [[机房]
+                                            [ALIBABA CLOUD - HK]]
+socks5://206.123.156.204:5005 [[家宽]
                                         
-                                        美国 北卡罗来纳州 夏洛特
+                                        美国 佛罗里达州 杰克逊维尔
                                         
-                                            [Charter Communications]]
-socks5://103.27.156.88:443 [[机房]
+                                            [HostGator.com LLC]]
+socks5://81.28.4.97:1080 [[机房]
                                         
-                                        德国 黑森州 法兰克福
+                                        英国 英格兰 伦敦
                                         
-                                            [LLC VEKTOR AITI TEKHNOLOGII]]
-socks5://175.44.40.13:5555 [[机房]
+                                            [CLOUDWEBMANAGE EU LO]]
+socks5://192.145.96.180:1080 [[家宽]
                                         
-                                        新加坡 新加坡 新加坡
+                                        俄罗斯 克拉斯诺亚尔斯克边疆区 克拉斯诺亚尔斯克
                                         
-                                            [GSL Networks Pty LTD - Singapore]]
-socks5://175.44.42.5:5555 [[机房]
+                                            [IGRA SERVICE 144 0 22]]
+socks5://14.233.138.229:1080 [[机房]
                                         
-                                        新加坡 新加坡 新加坡
+                                        越南
                                         
-                                            [GSL Networks Pty LTD - Singapore]]
-socks5://175.44.40.122:5555 [[机房]
+                                            [Vietnam Posts and Telecommunications Group]]
+socks5://216.128.138.177:1080 [[机房]
                                         
-                                        新加坡 新加坡 新加坡
+                                        美国 德克萨斯州 达拉斯 — Vultr
                                         
-                                            [GSL Networks Pty LTD - Singapore]]
-socks5://175.44.41.58:5555 [[机房]
-                                        
-                                        新加坡 新加坡 新加坡
-                                        
-                                            [GSL Networks Pty LTD - Singapore]]
-socks5://175.44.41.147:5555 [[机房]
-                                        
-                                        新加坡 新加坡 新加坡
-                                        
-                                            [GSL Networks Pty LTD - Singapore]]
-socks5://175.44.40.198:5555 [[机房]
-                                        
-                                        新加坡 新加坡 新加坡
-                                        
-                                            [GSL Networks Pty LTD - Singapore]]
-socks5://175.44.40.116:5555 [[机房]
-                                        
-                                        新加坡 新加坡 新加坡
-                                        
-                                            [GSL Networks Pty LTD - Singapore]]
-socks5://175.44.41.249:5555 [[机房]
-                                        
-                                        新加坡 新加坡 新加坡
-                                        
-                                            [GSL Networks Pty LTD - Singapore]]
-socks5://175.44.40.54:5555 [[机房]
-                                        
-                                        新加坡 新加坡 新加坡
-                                        
-                                            [GSL Networks Pty LTD - Singapore]]
-socks5://175.44.41.11:5555 [[机房]
-                                        
-                                        新加坡 新加坡 新加坡
-                                        
-                                            [GSL Networks Pty LTD - Singapore]]
-socks5://175.44.40.26:5555 [[机房]
-                                        
-                                        新加坡 新加坡 新加坡
-                                        
-                                            [GSL Networks Pty LTD - Singapore]]
-socks5://175.44.40.113:5555 [[机房]
-                                        
-                                        新加坡 新加坡 新加坡
-                                        
-                                            [GSL Networks Pty LTD - Singapore]]
-socks5://175.44.40.2:5555 [[机房]
-                                        
-                                        新加坡 新加坡 新加坡
-                                        
-                                            [GSL Networks Pty LTD - Singapore]]
-socks5://175.44.41.111:5555 [[机房]
-                                        
-                                        新加坡 新加坡 新加坡
-                                        
-                                            [GSL Networks Pty LTD - Singapore]]
-socks5://175.44.40.150:5555 [[机房]
-                                        
-                                        新加坡 新加坡 新加坡
-                                        
-                                            [GSL Networks Pty LTD - Singapore]]
-socks5://184.73.139.251:1080 [[机房]
-                                        
-                                        美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws
-                                        
-                                            [Amazon Data Services Northern Virginia]]
-socks5://172.236.240.38:5000 [[机房]
-                                        
-                                        美国 加州 洛杉矶
-                                        
-                                            [Akamai Technologies, Inc.]]
+                                            [Vultr Holdings, LLC]]
