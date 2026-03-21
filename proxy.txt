@@ -1,36 +1,71 @@
-# 代理列表更新时间: 2026-03-20 23:27:08
+# 代理列表更新时间: 2026-03-21 11:13:58
 # 总计: 30 个代理
 
-socks5://20.196.113.84:1080 [[机房]
+socks5://141.95.168.77:1080 [[机房]
                                         
-                                        越南
+                                        德国 柏林 柏林
                                         
-                                            [Vietnam Posts and Telecommunications Group]]
+                                            [CIA TRIAD SECURITY LLC]]
+socks5://185.117.154.41:1080 [[机房]
+                                        
+                                        俄罗斯 莫斯科 莫斯科
+                                        
+                                            [POWER-SERVERS-ROLE-ORG]]
+socks5://185.117.0.214:1080 [[机房]
+                                        
+                                        荷兰 北布拉班特省 埃因霍温
+                                        
+                                            [YottaSrc]]
+socks5://52.14.234.167:8000 [[机房]
+                                        
+                                        美国 俄亥俄州 哥伦布 — 亚马逊云 Aws
+                                        
+                                            [Amazon Technologies Inc.]]
+socks5://182.138.229.18:1080 [[机房]
+                                        
+                                        美国 加州 洛杉矶 — 搬瓦工
+                                        
+                                            [Cluster Logic Inc]]
+socks5://46.188.104.101:1080 [[机房]
+                                        
+                                        俄罗斯 莫斯科州
+                                        
+                                            [2COM Co ltd.]]
+socks5://175.178.82.164:1080 [[机房]
+                                        
+                                        中国 香港 香港
+                                        
+                                            [Shenzhen Guocai Electronic Trading Co., Ltd.]]
+socks5://213.183.117.137:1080 [[机房]
+                                        
+                                        俄罗斯 莫斯科 莫斯科
+                                        
+                                            [JSC "ER-Telecom Holding"]]
+socks5://115.195.42.121:30000 [[家宽]
+                                        
+                                        中国 香港 香港
+                                        
+                                            [Hong Kong Telecommunications (HKT) Limited Mass Internet]]
+socks5://116.202.8.27:1080 [[机房]
+                                        
+                                        德国 萨克森州 法尔肯施泰因 — Hetzner
+                                        
+                                            [Hetzner Online GmbH]]
+socks5://81.25.59.206:1080 [[机房]
+                                        
+                                        俄罗斯 莫斯科 莫斯科
+                                        
+                                            [DIGIT1 IPOE NET]]
 socks5://194.87.26.88:1080 [[机房]
                                         
                                         荷兰 北荷兰省 阿姆斯特丹
                                         
                                             [Timeweb, LLP]]
-socks5://194.87.151.34:1080 [[机房]
-                                        
-                                        芬兰 新地区 赫尔辛基
-                                        
-                                            [GLOBAL CONNECTIVITY SOLUTIONS LLP]]
 socks5://194.87.108.213:1080 [[机房]
                                         
                                         波兰 马佐维亚省 華沙 — JustHost
                                         
                                             [Baxet Group Inc.]]
-socks5://140.82.34.41:1080 [[机房]
-                                        
-                                        德国 黑森州 法兰克福 — Vultr
-                                        
-                                            [Vultr Holdings, LLC]]
-socks5://82.26.152.221:10808 [[机房]
-                                        
-                                        英国 英格兰 伦敦
-                                        
-                                            [HOSTKEY B.V.]]
 socks5://104.168.93.120:8080 [[机房]
                                         
                                         美国 纽约州 水牛城
@@ -56,11 +91,6 @@ socks5://210.149.87.235:9000 [[机房]
                                         日本 东京 东京
                                         
                                             [KDDI CORPORATION]]
-socks5://27.72.67.180:5000 [[机房]
-                                        
-                                        越南
-                                        
-                                            [ADSL HNI]]
 socks5://27.72.62.192:1080 [[家宽]
                                         
                                         越南 河内  河内市
@@ -96,11 +126,6 @@ socks5://95.216.194.207:1080 [[机房]
                                         美国 加州 洛杉矶
                                         
                                             [Byte Node LLC]]
-socks5://115.22.18.215:1080 [[机房]
-                                        
-                                        韩国 釜山广域市 釜山广域市
-                                        
-                                            [Korea Telecom]]
 socks5://148.251.0.158:1 [[机房]
                                         
                                         美国 德克萨斯州 达拉斯
@@ -126,28 +151,3 @@ socks5://95.216.225.230:10808 [[机房]
                                         日本 东京
                                         
                                             [Catixs]]
-socks5://150.109.21.234:443 [[机房]
-                                        
-                                        新加坡 新加坡 新加坡 — 腾讯云
-                                        
-                                            [16 COLLYER QUAY]]
-socks5://154.17.7.23:1234 [[机房]
-                                        
-                                        美国 德克萨斯州 达拉斯
-                                        
-                                            [Cogent Communications, LLC]]
-socks5://5.141.29.96:1080 [[家宽]
-                                        
-                                        俄罗斯 汉特-曼西亚 汉特-曼西斯克
-                                        
-                                            [Ural Branch]]
-socks5://89.19.212.24:1080 [[机房]
-                                        
-                                        德国 黑森州 法兰克福
-                                        
-                                            [Timeweb, LLP]]
-socks5://89.19.216.39:1080 [[机房]
-                                        
-                                        荷兰 北荷兰省 阿姆斯特丹
-                                        
-                                            [Timeweb, LLP]]
