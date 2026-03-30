@@ -1,26 +1,81 @@
-# 代理列表更新时间: 2026-03-30 11:45:02
+# 代理列表更新时间: 2026-03-30 23:33:12
 # 总计: 30 个代理
 
+socks5://43.99.72.93:1080 [[机房]
+                                        
+                                        中国 香港 香港 — 阿里云
+                                        
+                                            [Alibaba Cloud (Singapore) Private Limited]]
+socks5://206.123.156.234:4875 [[家宽]
+                                        
+                                        西班牙 马德里自治区 马德里
+                                        
+                                            [AXARNET COMUNICACIONES, S.L.]]
+socks5://206.123.156.195:4028 [[机房]
+                                        
+                                        美国 亚利桑那州 凤凰城 — 甲骨文云 Oracle
+                                        
+                                            [Unified Layer]]
+socks5://206.123.156.181:4870 [[机房]
+                                        
+                                        法国 大东部大区 斯特拉斯堡
+                                        
+                                            [Host Europe GmbH]]
+socks5://206.123.156.197:4020 [[家宽]
+                                        
+                                        美国 乔治亚州 亚特兰大
+                                        
+                                            [Unified Layer]]
+socks5://206.123.156.222:4442 [[机房]
+                                        
+                                        爱尔兰 伦斯特省 都柏林 — 微软云 Azure
+                                        
+                                            [cloud]]
+socks5://206.123.156.202:4960 [[家宽]
+                                        
+                                        越南 河内  河内市
+                                        
+                                            [GMO-Z.com Runsystem Joint Stock Company]]
+socks5://206.123.156.227:6133 [[家宽]
+                                        
+                                        美国 乔治亚州 亚特兰大
+                                        
+                                            [HostGator.com LLC]]
+socks5://206.123.156.178:4639 [[家宽]
+                                        
+                                        越南 河内  河内市
+                                        
+                                            [NhanHoa Software Company]]
+socks5://223.25.109.146:8199 [[机房]
+                                        
+                                        印度尼西亚 雅加达 雅加达
+                                        
+                                            [PT Sinergi Semesta Telematika]]
+socks5://47.236.24.227:1011 [[机房]
+                                        
+                                        新加坡 新加坡 新加坡 — 阿里云
+                                        
+                                            [Alibaba Cloud LLC]]
+socks5://123.143.162.221:6388 [[机房]
+                                        
+                                        韩国 首尔特别市 首尔特别市
+                                        
+                                            [LG DACOM Corporation]]
+socks5://119.119.87.71:1080 [[机房]
+                                        
+                                        中国 香港 香港 — Cloudflare CDN 节点
+                                        
+                                            [CLOUDFLAREWARP]]
 socks5://206.123.156.190:5954 [[机房]
                                         
                                         美国 亚利桑那州 凤凰城
                                         
                                             [GoDaddy.com, LLC]]
-socks5://194.87.186.80:40000 [[机房]
-                                        
-                                        荷兰 北荷兰省 阿姆斯特丹 — Cloudflare CDN 节点
-                                        
-                                            [Cloudflare, Inc.]]
 socks5://216.250.115.144:1080 [[机房]
                                         
                                         美国 密苏里州 堪萨斯城
                                         
                                             [IONOS Inc.]]
-socks5://51.250.108.153:1080 [[机房]
-                                        
-                                        俄罗斯 莫斯科 莫斯科
-                                        
-                                            [Yandex.Cloud LLC]]
 socks5://206.123.156.219:5719 [[机房]
                                         
                                         西班牙 拉里奥哈 洛格罗尼奥
@@ -31,11 +86,6 @@ socks5://147.45.240.36:1080 [[机房]
                                         荷兰 北荷兰省 阿姆斯特丹
                                         
                                             [Timeweb, LLP]]
-socks5://206.123.156.226:4967 [[机房]
-                                        
-                                        美国 加州 山景城
-                                        
-                                            [Lightnode Limited]]
 socks5://195.19.50.2:1080 [[机房]
                                         
                                         俄罗斯 莫斯科 莫斯科
@@ -51,11 +101,6 @@ socks5://206.123.156.215:4620 [[机房]
                                         德国 黑森州 法兰克福
                                         
                                             [M247 Ltd Frankfurt]]
-socks5://206.123.156.189:6705 [[家宽]
-                                        
-                                        越南 河内  河内市
-                                        
-                                            [iNET software one member company limited]]
 socks5://206.123.156.210:4129 [[机房]
                                         
                                         美国 犹他州 盐湖城 — 甲骨文云 Oracle
@@ -66,16 +111,6 @@ socks5://206.123.156.177:5693 [[机房]
                                         新加坡 新加坡 新加坡 — DigitalOcean
                                         
                                             [DigitalOcean, LLC]]
-socks5://206.123.156.200:4815 [[机房]
-                                        
-                                        美国 亚利桑那州 凤凰城 — 甲骨文云 Oracle
-                                        
-                                            [Unified Layer]]
-socks5://206.123.156.182:4085 [[家宽]
-                                        
-                                        越南 胡志明市
-                                        
-                                            [ADSL service]]
 socks5://206.123.156.205:4073 [[机房]
                                         
                                         美国 亚利桑那州 凤凰城 — 甲骨文云 Oracle
@@ -116,38 +151,3 @@ socks5://206.123.156.224:4049 [[家宽]
                                         越南 河内  河内市
                                         
                                             [UNICA ACADEMY JOINT STOCK COMPANY]]
-socks5://206.123.156.178:10465 [[机房]
-                                        
-                                        美国 犹他州  — 甲骨文云 Oracle
-                                        
-                                            [Unified Layer]]
-socks5://77.110.113.24:40000 [[机房]
-                                        
-                                        俄罗斯 莫斯科 莫斯科
-                                        
-                                            [GLOBAL INTERNET SOLUTIONS LLC]]
-socks5://134.199.159.23:1080 [[机房]
-                                        
-                                        澳大利亚 新南威尔士州 悉尼 — DigitalOcean
-                                        
-                                            [DigitalOcean, LLC]]
-socks5://206.123.156.228:5082 [[机房]
-                                        
-                                        美国 加州 山景城
-                                        
-                                            [Lightnode Limited]]
-socks5://200.201.219.80:1088 [[家宽]
-                                        
-                                        巴西 圣保罗 圣保罗
-                                        
-                                            [LACNIC - Latin American and Caribbean IP address]]
-socks5://104.248.203.234:1080 [[机房]
-                                        
-                                        荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean
-                                        
-                                            [DigitalOcean, LLC]]
-socks5://206.123.156.223:4295 [[机房]
-                                        
-                                        美国 南卡罗来纳州 北查尔斯顿 — 谷歌云 GCP
-                                        
-                                            [Google LLC]]
