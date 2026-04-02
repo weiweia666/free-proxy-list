@@ -1,153 +1,153 @@
-# 代理列表更新时间: 2026-04-02 11:37:00
+# 代理列表更新时间: 2026-04-02 23:33:02
 # 总计: 30 个代理
 
-socks5://82.114.228.67:1080 [[机房]
+socks5://3.217.194.67:6000 [[机房]
                                         
-                                        俄罗斯 萨拉托夫州 薩拉托夫
+                                        美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws
                                         
-                                            [SCTS NET]]
-socks5://206.123.156.225:5503 [[机房]
+                                            [Amazon Data Services Northern Virginia]]
+socks5://206.123.156.218:9037 [[家宽]
                                         
-                                        哈萨克斯坦 阿拉木图 阿拉木圖
+                                        保加利亚 索非亚首都区 索菲亚
                                         
-                                            [TOO PERVYY BIT]]
-socks5://206.123.156.211:6502 [[机房]
+                                            [NS1 Ltd.]]
+socks5://206.123.156.197:4113 [[机房]
                                         
-                                        美国 俄勒冈州 波特兰
+                                        西班牙 拉里奥哈 洛格罗尼奥
                                         
-                                            [DreamHost]]
-socks5://200.201.213.69:1088 [[机房]
-                                        
-                                        巴西 圣保罗 圣保罗
-                                        
-                                            [LACNIC - Latin American and Caribbean IP address]]
-socks5://206.123.156.182:5566 [[机房]
-                                        
-                                        德国 黑森州 法兰克福
-                                        
-                                            [IONOS SE]]
-socks5://206.123.156.180:4882 [[机房]
-                                        
-                                        美国 密苏里州 圣路易斯 — Contabo
-                                        
-                                            [Contabo GmbH]]
-socks5://206.123.156.188:9464 [[机房]
-                                        
-                                        美国 密苏里州 圣路易斯 — Contabo
-                                        
-                                            [Contabo GmbH]]
-socks5://193.233.254.82:1080 [[机房]
-                                        
-                                        德国 黑森州 法兰克福
-                                        
-                                            [WAIcore Ltd]]
-socks5://206.123.156.183:7020 [[机房]
-                                        
-                                        美国 密苏里州 圣路易斯 — Contabo
-                                        
-                                            [Contabo GmbH]]
-socks5://206.123.156.213:4576 [[机房]
-                                        
-                                        美国 弗吉尼亚州 阿什本 — 甲骨文云 Oracle
-                                        
-                                            [Newfold Digital, Inc.]]
-socks5://206.123.156.192:7109 [[机房]
-                                        
-                                        爱尔兰 伦斯特省 都柏林 — 微软云 Azure
-                                        
-                                            [cloud]]
-socks5://93.177.116.84:1080 [[机房]
-                                        
-                                        荷兰 弗莱福兰省 德龙滕
-                                        
-                                            [Baykov Ilya Sergeevich]]
-socks5://206.123.156.212:4212 [[机房]
+                                            [arsys.es]]
+socks5://206.123.156.193:8097 [[机房]
                                         
                                         加拿大 魁北克省 博阿努瓦 — OVH
                                         
                                             [OVH Hosting, Inc.]]
-socks5://206.123.156.193:4290 [[机房]
+socks5://43.156.153.252:1080 [[机房]
                                         
-                                        西班牙 阿斯图里亚斯自治区 奥维耶多
+                                        新加坡 新加坡 新加坡 — 腾讯云
                                         
-                                            [TeleCable, Static IP Addressing Range]]
-socks5://206.123.156.218:8223 [[机房]
+                                            [6 COLLYER QUAY]]
+socks5://206.123.156.231:5061 [[家宽]
                                         
-                                        美国 弗吉尼亚州 阿什本 — 甲骨文云 Oracle
+                                        印度尼西亚 雅加达 雅加达
                                         
-                                            [Newfold Digital, Inc.]]
-socks5://206.123.156.220:4141 [[机房]
+                                            [PT Praweda Sarana Informatika]]
+socks5://206.123.156.186:5586 [[机房]
                                         
-                                        新加坡 新加坡 新加坡 — Contabo
+                                        英国 英格兰 伦敦
                                         
-                                            [YorkshireTech]]
-socks5://206.123.156.210:4802 [[机房]
+                                            [Fasthosts Internet Limited]]
+socks5://206.123.156.178:5259 [[机房]
                                         
-                                        德国 巴伐利亚州 纽伦堡
+                                        美国 南卡罗来纳州 北查尔斯顿 — 谷歌云 GCP
                                         
-                                            [DE NETCUP KVM]]
-socks5://206.123.156.194:4764 [[机房]
+                                            [Google LLC]]
+socks5://206.123.156.201:17414 [[家宽]
                                         
-                                        美国 弗吉尼亚州 阿什本 — 甲骨文云 Oracle
+                                        巴西 圣保罗
                                         
-                                            [Newfold Digital, Inc.]]
-socks5://206.123.156.217:6825 [[机房]
+                                            [LACNIC - Latin American and Caribbean IP address]]
+socks5://206.123.156.211:5801 [[机房]
+                                        
+                                        爱尔兰 伦斯特省 都柏林 — 微软云 Azure
+                                        
+                                            [cloud]]
+socks5://206.123.156.177:5961 [[机房]
+                                        
+                                        越南 胡志明市 胡志明市
+                                        
+                                            [Vietnam Posts and Telecommunications Group]]
+socks5://206.123.156.235:4653 [[家宽]
+                                        
+                                        法国
+                                        
+                                            [DATACENTER VIRTUEL]]
+socks5://206.123.156.199:6115 [[家宽]
+                                        
+                                        爱尔兰 伦斯特省 都柏林
+                                        
+                                            [Internet Names for Business Inc]]
+socks5://206.123.156.206:6254 [[机房]
+                                        
+                                        美国 犹他州  — 甲骨文云 Oracle
+                                        
+                                            [Oso Grande IP Services, LLC]]
+socks5://206.123.156.234:7738 [[机房]
+                                        
+                                        美国 亚利桑那州 凤凰城
+                                        
+                                            [GoDaddy.com, LLC]]
+socks5://206.123.156.214:7369 [[机房]
+                                        
+                                        日本 东京 东京 — Linode
+                                        
+                                            [Linode, LLC]]
+socks5://206.123.156.217:5941 [[机房]
+                                        
+                                        德国 柏林 柏林
+                                        
+                                            [IONOS SE]]
+socks5://206.123.156.205:8879 [[家宽]
+                                        
+                                        立陶宛 维尔纽斯县 维尔纽斯
+                                        
+                                            [LT HOSTBALTIC 11]]
+socks5://206.123.156.219:5603 [[机房]
+                                        
+                                        德国 柏林 柏林
+                                        
+                                            [IONOS SE]]
+socks5://206.123.156.204:6824 [[家宽]
                                         
                                         德国 黑森州 法兰克福
                                         
                                             [Ambyre LLC]]
-socks5://206.123.156.224:8559 [[机房]
+socks5://206.123.156.203:4084 [[机房]
                                         
-                                        美国 密苏里州 圣路易斯 — Contabo
+                                        日本 东京 东京 — Linode
                                         
-                                            [Contabo GmbH]]
-socks5://206.123.156.219:7098 [[机房]
+                                            [Linode, LLC]]
+socks5://206.123.156.215:4538 [[家宽]
                                         
-                                        立陶宛 维尔纽斯县 维尔纽斯
+                                        英国 英格兰 雷丁
                                         
-                                            [LT HOSTBALTIC 11]]
-socks5://206.123.156.208:5486 [[机房]
+                                            [Iomart Managed Services Limited]]
+socks5://156.244.33.216:20002 [[机房]
                                         
-                                        越南 河内  河内市
+                                        墨西哥 墨西哥城 墨西哥城
                                         
-                                            [iNET software one member company limited]]
-socks5://206.123.156.205:4021 [[机房]
+                                            [Lightnode Limited]]
+socks5://206.123.156.183:5467 [[机房]
                                         
-                                        阿联酋 迪拜 迪拜 — 微软云 Azure
+                                        新加坡 新加坡 新加坡 — DigitalOcean
                                         
-                                            [Microsoft Corporation]]
-socks5://206.123.156.233:5095 [[机房]
+                                            [DigitalOcean, LLC]]
+socks5://203.189.154.80:1080 [[家宽]
                                         
-                                        法国 大东部大区  — Contabo
+                                        柬埔寨 金边 金边
                                         
-                                            [Contabo GmbH]]
-socks5://206.123.156.201:5018 [[机房]
+                                            [Cogetel Ltd, Online ISP, Cambodia]]
+socks5://198.96.89.115:1080 [[机房]
                                         
                                         美国 纽约州 纽约
                                         
-                                            [Interserver, Inc]]
-socks5://206.123.156.191:4264 [[机房]
+                                            [BrainStorm Network Inc.]]
+socks5://20.120.246.129:1080 [[机房]
                                         
-                                        立陶宛 维尔纽斯县 维尔纽斯
+                                        美国 华盛顿州 摩西湖市 — 微软云 Azure
                                         
-                                            [LT HOSTBALTIC 11]]
-socks5://206.123.156.238:7015 [[机房]
+                                            [Microsoft Corporation]]
+socks5://45.59.117.163:8080 [[机房]
                                         
-                                        科威特 哈瓦利省
+                                        瑞士 伯尔尼 伯尔尼
                                         
-                                            [Gulfnet International KEMS LLC]]
-socks5://160.250.5.22:1 [[机房]
+                                            [RouterHosting LLC]]
+socks5://38.60.224.95:20002 [[机房]
                                         
-                                        越南 胡志明市 胡志明市
+                                        墨西哥 墨西哥城 墨西哥城
                                         
-                                            [Vietnam Internet Network Information Center (VNNIC)]]
-socks5://206.123.156.229:5343 [[机房]
+                                            [Lightnode-MX]]
+socks5://74.179.84.102:1080 [[机房]
                                         
-                                        美国 密苏里州 圣路易斯 — Contabo
+                                        美国 华盛顿州 摩西湖市 — 微软云 Azure
                                         
-                                            [Contabo GmbH]]
-socks5://206.123.156.230:13202 [[机房]
-                                        
-                                        美国 俄勒冈州 波特兰
-                                        
-                                            [DreamHost]]
+                                            [Microsoft Corporation]]
