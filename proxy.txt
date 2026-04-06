@@ -1,6 +1,46 @@
-# 代理列表更新时间: 2026-04-05 23:32:08
+# 代理列表更新时间: 2026-04-06 11:40:01
 # 总计: 30 个代理
 
+socks5://3.147.42.57:11111 [[机房]
+                                        
+                                        美国 俄亥俄州 哥伦布 — 亚马逊云 Aws
+                                        
+                                            [Amazon Technologies Inc.]]
+socks5://3.37.219.142:1080 [[机房]
+                                        
+                                        韩国 仁川 仁川广域市 — 亚马逊云 Aws
+                                        
+                                            [AWS Asia Pacific (Seoul) Region]]
+socks5://185.105.111.167:1080 [[机房]
+                                        
+                                        俄罗斯 莫斯科 莫斯科
+                                        
+                                            [EuroByte LLC]]
+socks5://13.231.199.158:1080 [[机房]
+                                        
+                                        日本 东京 东京 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Japan]]
+socks5://41.174.170.96:1080 [[机房]
+                                        
+                                        德国 巴伐利亚 纽伦堡 — Hetzner
+                                        
+                                            [Hetzner Online GmbH]]
+socks5://94.158.219.111:1080 [[机房]
+                                        
+                                        拉脱维亚 里加 里加 — veesp.com
+                                        
+                                            [SIA VEESP]]
+socks5://52.220.83.30:1080 [[机房]
+                                        
+                                        新加坡 新加坡 新加坡 — 亚马逊云 Aws
+                                        
+                                            [Amazon Data Services Singapore]]
+socks5://116.103.250.213:5001 [[家宽]
+                                        
+                                        越南
+                                        
+                                            [Viettel Group]]
 socks5://45.207.201.87:1080 [[机房]
                                         
                                         美国 纽约州 纽约
@@ -111,43 +151,3 @@ socks5://206.123.156.177:4212 [[家宽]
                                         美国 密歇根州 兰辛
                                         
                                             [Liquid Web, L.L.C]]
-socks5://203.189.154.80:1080 [[家宽]
-                                        
-                                        柬埔寨 金边 金边
-                                        
-                                            [Cogetel Ltd, Online ISP, Cambodia]]
-socks5://34.174.40.246:1080 [[机房]
-                                        
-                                        美国 德克萨斯州 达拉斯 — 谷歌云 GCP
-                                        
-                                            [Google LLC]]
-socks5://209.38.154.7:1080 [[机房]
-                                        
-                                        美国 加州 圣克拉拉 — DigitalOcean
-                                        
-                                            [DigitalOcean, LLC]]
-socks5://139.162.36.238:1080 [[机房]
-                                        
-                                        新加坡 新加坡 新加坡 — Linode
-                                        
-                                            [Linode, LLC]]
-socks5://139.162.58.159:1080 [[机房]
-                                        
-                                        新加坡 新加坡 新加坡 — Linode
-                                        
-                                            [Linode, LLC]]
-socks5://110.235.240.223:1080 [[家宽]
-                                        
-                                        柬埔寨 金边 金边
-                                        
-                                            [Cogetel Ltd, Online ISP, Cambodia]]
-socks5://51.79.74.158:40000 [[机房]
-                                        
-                                        加拿大 魁北克省 蒙特利尔 — Cloudflare CDN 节点
-                                        
-                                            [Cloudflare, Inc.]]
-socks5://156.244.33.216:20002 [[机房]
-                                        
-                                        墨西哥 墨西哥城 墨西哥城
-                                        
-                                            [Lightnode Limited]]
