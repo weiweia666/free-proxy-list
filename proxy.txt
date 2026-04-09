@@ -1,6 +1,96 @@
-# 代理列表更新时间: 2026-04-08 23:36:37
+# 代理列表更新时间: 2026-04-09 11:43:05
 # 总计: 30 个代理
 
+socks5://202.71.12.143:1080 [[机房]
+                                        
+                                        芬兰 芬兰本土 赫尔辛基
+                                        
+                                            [Snowd Security OU]]
+socks5://91.190.81.138:1080 [[家宽]
+                                        
+                                        俄罗斯 圣彼得堡 圣彼得堡
+                                        
+                                            [Smart Telecom Company]]
+socks5://5.255.99.75:1080 [[机房]
+                                        
+                                        荷兰 弗莱福兰省 德龙滕
+                                        
+                                            [TIG]]
+socks5://5.101.225.97:1080 [[机房]
+                                        
+                                        俄罗斯 沃罗涅日州 沃罗涅日
+                                        
+                                            [LLC "Real-net"]]
+socks5://5.101.113.71:1080 [[机房]
+                                        
+                                        爱沙尼亚 哈留县 塔林
+                                        
+                                            [Network for hosting services]]
+socks5://61.150.12.23:1080 [[机房]
+                                        
+                                        新加坡 新加坡 新加坡 — 谷歌云 GCP
+                                        
+                                            [Google LLC]]
+socks5://213.5.128.224:8088 [[机房]
+                                        
+                                        波兰 滨海省 格但斯克市
+                                        
+                                            [MB "Lirutis"]]
+socks5://109.187.199.74:1080 [[家宽]
+                                        
+                                        俄罗斯 巴什科尔托斯坦共和国 乌法
+                                        
+                                            [Bashinformsvyaz Company, RUMS, DSL POOL]]
+socks5://185.245.41.242:1080 [[机房]
+                                        
+                                        中国 香港 香港
+                                        
+                                            [Sakura network limited]]
+socks5://47.57.242.244:5080 [[机房]
+                                        
+                                        中国香港 东区 天后 — 阿里云
+                                        
+                                            [Alibaba Cloud - HK]]
+socks5://206.123.156.220:7232 [[机房]
+                                        
+                                        丹麦 首都大区 哥本哈根
+                                        
+                                            [team.blue Denmark A/S]]
+socks5://5.255.117.127:1080 [[机房]
+                                        
+                                        荷兰 弗莱福兰省 德龙滕
+                                        
+                                            [TIG]]
+socks5://93.177.116.84:1080 [[机房]
+                                        
+                                        荷兰 弗莱福兰省 德龙滕
+                                        
+                                            [Baykov Ilya Sergeevich]]
+socks5://206.123.156.231:5555 [[机房]
+                                        
+                                        英国 英格兰 伦敦 — DigitalOcean
+                                        
+                                            [DigitalOcean, LLC]]
+socks5://68.183.86.193:9050 [[机房]
+                                        
+                                        德国 柏林 柏林市
+                                        
+                                            [Digitalcourage e.V.]]
+socks5://185.101.35.55:9050 [[机房]
+                                        
+                                        冰岛 首都区 雷克亚维克
+                                        
+                                            [VPS1-NET]]
+socks5://89.22.232.114:1080 [[机房]
+                                        
+                                        瑞典 斯德哥尔摩 斯德哥尔摩
+                                        
+                                            [AEZA GROUP LLC]]
+socks5://89.22.167.38:1080 [[机房]
+                                        
+                                        俄罗斯 克拉斯诺亚尔斯克边疆区 克拉斯诺亚尔斯克
+                                        
+                                            [Igra-Service LLC]]
 socks5://3.16.138.162:1080 [[机房]
                                         
                                         美国 俄亥俄州 哥伦布 — 亚马逊云 Aws
@@ -61,93 +151,3 @@ socks5://40.233.83.232:1081 [[机房]
                                         加拿大 安大略省 多伦多 — 甲骨文云 Oracle
                                         
                                             [Oracle Corporation]]
-socks5://152.53.107.239:1080 [[机房]
-                                        
-                                        荷兰 弗莱福兰省 莱利斯塔德
-                                        
-                                            [DE NETCUP KVM VIE]]
-socks5://152.53.144.223:1080 [[机房]
-                                        
-                                        德国 巴伐利亚州 纽伦堡
-                                        
-                                            [DE NETCUP KVM VIE]]
-socks5://206.123.156.184:8888 [[家宽]
-                                        
-                                        法国 法兰西岛大区 巴黎
-                                        
-                                            [ELASSAR MULTIMEDIA]]
-socks5://107.150.61.226:8888 [[机房]
-                                        
-                                        美国 密苏里州 堪萨斯城
-                                        
-                                            [Nocix, LLC]]
-socks5://80.76.49.123:60000 [[机房]
-                                        
-                                        美国 纽约州 纽约
-                                        
-                                            [Charter Communications Inc]]
-socks5://206.123.156.222:5555 [[机房]
-                                        
-                                        加拿大 魁北克省 博阿努瓦 — OVH
-                                        
-                                            [OVH Hosting, Inc.]]
-socks5://110.18.88.8:6000 [[机房]
-                                        
-                                        中国 香港 香港
-                                        
-                                            [BAGE CLOUD LLC]]
-socks5://163.192.22.108:7911 [[机房]
-                                        
-                                        美国 加州 圣何塞 — Cloudflare CDN 节点
-                                        
-                                            [CLOUDFLAREWARP]]
-socks5://79.127.221.35:26257 [[机房]
-                                        
-                                        美国 华盛顿州 西雅图
-                                        
-                                            [Free Range Cloud Ltd.]]
-socks5://216.106.179.216:49152 [[机房]
-                                        
-                                        美国 佛罗里达州
-                                        
-                                            [AT&T Enterprises, LLC]]
-socks5://206.123.156.233:5095 [[家宽]
-                                        
-                                        立陶宛 维尔纽斯县 维尔纽斯
-                                        
-                                            [LT HOSTBALTIC 11]]
-socks5://74.179.84.102:1080 [[机房]
-                                        
-                                        美国 华盛顿州 摩西湖市 — 微软云 Azure
-                                        
-                                            [Microsoft Corporation]]
-socks5://38.76.203.190:5555 [[机房]
-                                        
-                                        中国 香港 香港
-                                        
-                                            [Cogent Communications, LLC]]
-socks5://206.123.156.205:4073 [[家宽]
-                                        
-                                        美国 犹他州 普若佛
-                                        
-                                            [Unified Layer]]
-socks5://116.118.4.114:60000 [[机房]
-                                        
-                                        美国 俄亥俄州 辛辛那提
-                                        
-                                            [Strong Technology, LLC.]]
-socks5://185.46.11.139:1080 [[机房]
-                                        
-                                        德国 黑森州 法兰克福
-                                        
-                                            [AS199785 DE iPv4]]
-socks5://8.220.143.77:1080 [[机房]
-                                        
-                                        菲律宾 国家首都区 马尼拉 — 阿里云
-                                        
-                                            [Alibaba Cloud (Singapore) Private Limited]]
-socks5://3.37.219.142:1080 [[机房]
-                                        
-                                        韩国 仁川 仁川广域市 — 亚马逊云 Aws
-                                        
-                                            [AWS Asia Pacific (Seoul) Region]]
