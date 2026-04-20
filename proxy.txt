@@ -1,13 +1,154 @@
-# 代理列表更新时间: 2026-04-20 11:58:41
+# 代理列表更新时间: 2026-04-20 23:40:43
 # 总计: 30 个代理
 
-socks5://177.215.223.166:1080 [[机房]
+socks5://149.88.67.3:5555 [[机房]
                                         
                                         
                                         
-                                        巴西 圣保罗州 圣保罗
+                                        中国 香港 香港
                                         
-                                            [LACNIC - Latin American and Caribbean IP address]]
+                                            [Cogent Communications, LLC]]
+socks5://8.211.166.184:1080 [[机房]
+                                        
+                                        
+                                        
+                                        日本 东京都 东京 — 阿里云
+                                        
+                                            [Alibaba Cloud (Singapore) Private Limited]]
+socks5://8.211.146.92:5555 [[机房]
+[纯净17]
+                                            
+                                        
+                                        
+                                        柬埔寨 金边 金边
+                                        
+                                            [Ministry of Interior]]
+socks5://45.194.22.80:1080 [[机房]
+[中性33]
+[广播IP]
+                                        
+                                        新加坡 新加坡 新加坡
+                                        
+                                            [HONG KONG COMMUNICATIONS INTERNATIONAL CO.,LIMITED]]
+socks5://89.169.10.171:8081 [[机房]
+[普通25]
+[广播IP]
+                                        
+                                        荷兰 北荷兰省 阿姆斯特丹
+                                        
+                                            [ZTV CORP GB]]
+socks5://152.70.56.102:1080 [[机房]
+[中性49]
+[广播IP]
+                                        
+                                        荷兰 北荷兰省 阿姆斯特丹 — 甲骨文云 Oracle
+                                        
+                                            [Oracle Corporation]]
+socks5://37.128.240.189:1080 [[机房]
+[普通26]
+                                            
+                                        
+                                        
+                                        俄罗斯 坦波夫州 坦波夫
+                                        
+                                            [LanTa Ltd]]
+socks5://61.73.158.215:1080 [[家宽]
+[高风险94]
+                                            
+                                        
+                                        
+                                        韩国 首尔特别市 首尔特别市
+                                        
+                                            [Korea Telecom]]
+socks5://14.53.163.68:1080 [[家宽]
+[极度纯净9]
+                                            
+                                        
+                                        
+                                        韩国 京畿道 全谷
+                                        
+                                            [Korea Telecom]]
+socks5://206.123.156.201:8636 [[机房]
+                                        
+                                        
+                                        
+                                        西班牙 阿斯图里亚斯 奥维耶多
+                                        
+                                            [TeleCable, Static IP Addressing Range]]
+socks5://206.123.156.183:8636 [[机房]
+                                        
+                                        
+                                        
+                                        法国 法兰西岛 克鲁瓦西-博布尔
+                                        
+                                            [Eurofiber France SAS]]
+socks5://206.123.156.238:8636 [[机房]
+                                        
+                                        
+                                        
+                                        越南 胡志明市 胡志明市
+                                        
+                                            [CMC Telecom Infrastructure Company]]
+socks5://206.123.156.221:8636 [[机房]
+[高风险92]
+                                            
+                                        
+                                        
+                                        立陶宛 维尔纽斯县 维尔纽斯
+                                        
+                                            [LT HOSTBALTIC 11]]
+socks5://206.123.156.234:8636 [[家宽]
+[高风险95]
+                                            
+                                        
+                                        
+                                        法国 法兰西岛 克鲁瓦西-博布尔
+                                        
+                                            [Eurofiber France SAS]]
+socks5://206.123.156.205:8636 [[机房]
+[纯净10]
+[广播IP]
+                                        
+                                        加拿大 安大略省 多伦多
+                                        
+                                            [HostPapa]]
+socks5://206.123.156.198:8636 [[机房]
+[普通23]
+                                            
+                                        
+                                        
+                                        法国 奥弗涅-罗讷-阿尔卑斯 鲁瓦
+                                        
+                                            [o2switch Datacenter Ip-Range-4]]
+socks5://206.123.156.211:8636 [[机房]
+                                        
+                                        
+                                        
+                                        波兰 马佐夫舍省 华沙 — OVH
+                                        
+                                            [OVH Sp. z o. o.]]
+socks5://104.194.149.110:1080 [[机房]
+                                        
+                                        
+                                        
+                                        英国 英格兰 伦敦
+                                        
+                                            [RouterHosting LLC]]
+socks5://14.172.149.180:1080 [[家宽]
+[极度纯净5]
+                                            
+                                        
+                                        
+                                        越南 胡志明市 胡志明市
+                                        
+                                            [Vietnam Posts and Telecommunications Group]]
+socks5://185.143.101.247:5555 [[机房]
+                                        
+                                        
+                                        
+                                        瑞士 苏黎世州 苏黎世
+                                        
+                                            [Infomaniak Network SA]]
 socks5://45.64.112.51:1080 [[机房]
 [普通27]
                                             
@@ -31,13 +172,6 @@ socks5://45.130.146.154:1080 [[机房]
                                         德国 黑森州 美因河畔法兰克福 — JustHost
                                         
                                             [Cloud Source, Inc.]]
-socks5://54.90.124.20:1080 [[机房]
-                                        
-                                        
-                                        
-                                        爱尔兰 伦斯特 都柏林 — 亚马逊云 Aws
-                                        
-                                            [Amazon Data Services Ireland Limited]]
 socks5://14.178.11.43:1080 [[家宽]
 [极度纯净7]
                                             
@@ -46,13 +180,6 @@ socks5://14.178.11.43:1080 [[家宽]
                                         越南 清化省 清化
                                         
                                             [Vietnam Posts and Telecommunications Group]]
-socks5://18.220.212.169:8000 [[机房]
-                                        
-                                        
-                                        
-                                        美国 俄亥俄州 哥伦布 — 亚马逊云 Aws
-                                        
-                                            [Amazon Technologies Inc.]]
 socks5://154.12.93.178:1080 [[机房]
                                         
                                         
@@ -67,28 +194,6 @@ socks5://103.162.57.42:1080 [[机房]
                                         孟加拉国 吉大港专区 费尼
                                         
                                             [Novus Network]]
-socks5://103.197.241.209:1080 [[家宽]
-[纯净10]
-                                            
-                                        
-                                        
-                                        柬埔寨 金边 金边
-                                        
-                                            [Cogetel Ltd, Online ISP, Cambodia]]
-socks5://141.95.53.104:9050 [[机房]
-                                        
-                                        
-                                        
-                                        荷兰 北荷兰省 阿姆斯特丹
-                                        
-                                            [TECHOFF SRV LIMITED]]
-socks5://157.245.130.30:20002 [[机房]
-                                        
-                                        
-                                        
-                                        美国 加利福尼亚州 纽波特比奇
-                                        
-                                            [Caache LLC]]
 socks5://119.148.7.10:22122 [[家宽]
 [中风险69]
                                             
@@ -111,14 +216,6 @@ socks5://195.133.63.187:9050 [[机房]
                                         德国 柏林州 柏林
                                         
                                             [Digitalcourage e.V.]]
-socks5://158.160.21.167:1080 [[机房]
-[普通24]
-                                            
-                                        
-                                        
-                                        俄罗斯 莫斯科 莫斯科
-                                        
-                                            [Yandex.Cloud LLC]]
 socks5://95.85.242.7:9050 [[机房]
                                         
                                         
@@ -126,101 +223,3 @@ socks5://95.85.242.7:9050 [[机房]
                                         荷兰 弗莱福兰省 莱利斯塔德
                                         
                                             [TOR EXIT AND MORE]]
-socks5://206.123.156.182:5000 [[机房]
-                                        
-                                        
-                                        
-                                        德国 萨克森州 法尔肯施泰因 — Hetzner
-                                        
-                                            [CLOUD FSN1]]
-socks5://138.68.247.51:1080 [[机房]
-[中风险66]
-                                            
-                                        
-                                        
-                                        美国 加利福尼亚州 圣克拉拉 — DigitalOcean
-                                        
-                                            [DigitalOcean, LLC]]
-socks5://64.188.77.26:1080 [[机房]
-[中性40]
-[广播IP]
-                                        
-                                        德国 黑森州 法兰克福
-                                        
-                                            [1Cent Host]]
-socks5://123.214.62.25:6881 [[家宽]
-[高风险71]
-                                            
-                                        
-                                        
-                                        韩国 仁川 仁川
-                                        
-                                            [SK Broadband Co Ltd]]
-socks5://193.233.254.38:1080 [[机房]
-[高风险76]
-                                            
-                                        
-                                        
-                                        德国 黑森州 美因河畔法兰克福
-                                        
-                                            [WAIcore Ltd]]
-socks5://193.233.254.57:1080 [[机房]
-[高风险95]
-                                            
-                                        
-                                        
-                                        德国 黑森州 美因河畔法兰克福
-                                        
-                                            [WAIcore Ltd]]
-socks5://34.238.40.49:1080 [[机房]
-                                        
-                                        
-                                        
-                                        美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws
-                                        
-                                            [Amazon Technologies Inc.]]
-socks5://64.227.131.240:1080 [[机房]
-[高风险96]
-[广播IP]
-                                        
-                                        印度 卡纳塔克邦 巴谢蒂哈利 — DigitalOcean
-                                        
-                                            [DigitalOcean, LLC]]
-socks5://38.34.12.228:1080 [[家宽]
-[极度纯净1]
-                                            
-                                        
-                                        
-                                        美国 加利福尼亚州 洛杉矶
-                                        
-                                            [Cogent Communications, LLC]]
-socks5://193.177.0.148:60000 [[机房]
-                                        
-                                        
-                                        
-                                        比利时 布鲁塞尔首都大区 布鲁塞尔
-                                        
-                                            [FIA Pools - Dynamic address space]]
-socks5://185.49.110.155:1080 [[家宽]
-[极度纯净1]
-                                            
-                                        
-                                        
-                                        俄罗斯 莫斯科州 克拉斯诺戈尔斯克
-                                        
-                                            [Semantic LLC]]
-socks5://65.109.128.96:1080 [[机房]
-                                        
-                                        
-                                        
-                                        芬兰 新地区 赫尔辛基 — Hetzner
-                                        
-                                            [Hetzner Online GmbH]]
-socks5://188.18.15.96:1080 [[家宽]
-[极度纯净4]
-                                            
-                                        
-                                        
-                                        俄罗斯 库尔干州 库尔干
-                                        
-                                            [PJSC Rostelecom]]
