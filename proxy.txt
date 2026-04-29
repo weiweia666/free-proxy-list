@@ -1,6 +1,104 @@
-# 代理列表更新时间: 2026-04-28 23:54:03
+# 代理列表更新时间: 2026-04-29 12:09:24
 # 总计: 30 个代理
 
+socks5://194.67.120.221:1080 [[机房]
+                                        
+                                        
+                                        
+                                        德国 黑森州 法兰克福
+                                        
+                                            [Fornex Hosting S.L.]]
+socks5://80.255.6.47:1080 [[家宽]
+                                        
+                                        
+                                        
+                                        德国 巴伐利亚州 纽伦堡
+                                        
+                                            [SCHNELLNO]]
+socks5://151.242.125.125:5555 [[机房]
+                                        
+                                        
+                                        
+                                        中国 香港 香港
+                                        
+                                            [AKILE HK]]
+socks5://38.59.241.162:1080 [[机房]
+                                        
+                                        
+                                        
+                                        美国 加利福尼亚州 圣克拉拉
+                                        
+                                            [HK CEDOC LIMITED]]
+socks5://90.156.225.124:1080 [[机房]
+                                        
+                                        
+                                        
+                                        俄罗斯 圣彼得堡 圣彼得堡
+                                        
+                                            [JSC "TIMEWEB"]]
+socks5://3.74.167.136:1080 [[机房]
+                                        
+                                        
+                                        
+                                        德国 黑森州 美因河畔法兰克福 — 亚马逊云 Aws
+                                        
+                                            [A100 ROW GmbH]]
+socks5://3.35.222.154:1080 [[机房]
+                                        
+                                        
+                                        
+                                        韩国 仁川 仁川 — 亚马逊云 Aws
+                                        
+                                            [AWS Asia Pacific (Seoul) Region]]
+socks5://3.35.174.46:1080 [[机房]
+                                        
+                                        
+                                        
+                                        韩国 仁川 仁川 — 亚马逊云 Aws
+                                        
+                                            [AWS Asia Pacific (Seoul) Region]]
+socks5://3.35.17.246:1080 [[机房]
+                                        
+                                        
+                                        
+                                        韩国 仁川 仁川 — 亚马逊云 Aws
+                                        
+                                            [AWS Asia Pacific (Seoul) Region]]
+socks5://3.35.14.168:1080 [[机房]
+                                        
+                                        
+                                        
+                                        韩国 仁川 仁川 — 亚马逊云 Aws
+                                        
+                                            [AWS Asia Pacific (Seoul) Region]]
+socks5://3.35.149.140:1080 [[机房]
+                                        
+                                        
+                                        
+                                        韩国 仁川 仁川 — 亚马逊云 Aws
+                                        
+                                            [AWS Asia Pacific (Seoul) Region]]
+socks5://3.35.137.71:1080 [[机房]
+                                        
+                                        
+                                        
+                                        韩国 仁川 仁川 — 亚马逊云 Aws
+                                        
+                                            [AWS Asia Pacific (Seoul) Region]]
+socks5://3.35.156.220:1080 [[机房]
+                                        
+                                        
+                                        
+                                        韩国 仁川 仁川 — 亚马逊云 Aws
+                                        
+                                            [AWS Asia Pacific (Seoul) Region]]
+socks5://188.243.255.125:1080 [[家宽]
+                                        
+                                        
+                                        
+                                        俄罗斯 圣彼得堡 圣彼得堡
+                                        
+                                            [SkyNet]]
 socks5://87.229.210.5:1080 [[家宽]
                                         
                                         
@@ -106,13 +204,6 @@ socks5://185.125.100.137:1080 [[机房]
                                         德国 黑森州 法兰克福
                                         
                                             [AEZA GROUP LLC]]
-socks5://219.254.119.178:1080 [[机房]
-                                        
-                                        
-                                        
-                                        韩国 庆尚北道 龟尾市
-                                        
-                                            [SK Broadband Co Ltd]]
 socks5://92.255.76.165:1080 [[机房]
                                         
                                         
@@ -120,94 +211,3 @@ socks5://92.255.76.165:1080 [[机房]
                                         芬兰 新地区 赫尔辛基
                                         
                                             [H2NEXUS LTD]]
-socks5://92.255.110.140:1080 [[机房]
-                                        
-                                        
-                                        
-                                        瑞典 斯德哥尔摩 斯德哥尔摩
-                                        
-                                            [PLAY2GO INTERNATIONAL LIMITED]]
-socks5://213.230.121.41:1080 [[家宽]
-                                        
-                                        
-                                        
-                                        乌兹别克斯坦 塔什干市 塔什干
-                                        
-                                            [UZTELECOM]]
-socks5://45.63.88.46:1080 [[机房]
-                                        
-                                        
-                                        
-                                        美国 加利福尼亚州 圣克拉拉 — Vultr
-                                        
-                                            [The Constant Company, LLC]]
-socks5://208.85.17.120:1080 [[机房]
-                                        
-                                        
-                                        
-                                        西班牙 马德里自治区 阿尔科文达斯 — Vultr
-                                        
-                                            [Vultr Holdings, LLC]]
-socks5://109.172.30.195:1080 [[机房]
-                                        
-                                        
-                                        
-                                        荷兰 北荷兰省 阿姆斯特丹
-                                        
-                                            [LIVI HOSTING NL]]
-socks5://31.130.152.120:443 [[机房]
-                                        
-                                        
-                                        
-                                        哈萨克斯坦 阿拉木图 阿拉木圖
-                                        
-                                            [TW Cloud]]
-socks5://47.253.71.133:1080 [[机房]
-                                        
-                                        
-                                        
-                                        美国 弗吉尼亚州 弗吉尼亚比奇 — 阿里云
-                                        
-                                            [Alibaba Cloud - US]]
-socks5://146.103.125.38:1080 [[机房]
-                                        
-                                        
-                                        
-                                        荷兰 北荷兰省 阿姆斯特丹
-                                        
-                                            [SERVERS TECH FZCO]]
-socks5://146.103.42.20:1080 [[机房]
-                                        
-                                        
-                                        
-                                        德国 黑森州 法兰克福 — OVH
-                                        
-                                            [OVH GmbH]]
-socks5://88.222.213.240:40000 [[机房]
-                                        
-                                        
-                                        
-                                        印度 马哈拉施特拉邦 孟买 — Cloudflare CDN 节点
-                                        
-                                            [CLOUDFLAREWARP]]
-socks5://46.101.184.29:1080 [[机房]
-                                        
-                                        
-                                        
-                                        德国 黑森州 美因河畔法兰克福 — DigitalOcean
-                                        
-                                            [DIGITALOCEAN]]
-socks5://185.125.201.149:7443 [[机房]
-                                        
-                                        
-                                        
-                                        荷兰 北荷兰省 阿姆斯特丹
-                                        
-                                            [lease for Timeweb]]
-socks5://119.148.7.10:22122 [[机房]
-                                        
-                                        
-                                        
-                                        孟加拉国 达卡专区 达卡
-                                        
-                                            [Customer Allocation for Uttara Zone]]
