@@ -1,6 +1,62 @@
-# 代理列表更新时间: 2026-04-30 12:06:26
+# 代理列表更新时间: 2026-04-30 23:51:30
 # 总计: 30 个代理
 
+socks5://5.188.28.94:1080 [[机房]
+                                        
+                                        
+                                        
+                                        爱沙尼亚 哈留县 塔林
+                                        
+                                            [Network for hosting services]]
+socks5://128.140.12.171:1080 [[机房]
+                                        
+                                        
+                                        
+                                        德国 巴伐利亚州 纽伦堡 — Hetzner
+                                        
+                                            [Hetzner Online GmbH]]
+socks5://218.72.124.35:40000 [[机房]
+                                        
+                                        
+                                        
+                                        新加坡 新加坡 新加坡
+                                        
+                                            [3NT SOLUTIONS LLP]]
+socks5://85.117.248.36:1080 [[机房]
+                                        
+                                        
+                                        
+                                        西班牙 加泰罗尼亚 圣博伊-德略夫雷加特
+                                        
+                                            [CONNECTA 1876 SLU]]
+socks5://104.248.203.234:1080 [[机房]
+                                        
+                                        
+                                        
+                                        荷兰 北荷兰省 阿姆斯特丹 — DigitalOcean
+                                        
+                                            [DigitalOcean, LLC]]
+socks5://81.26.190.143:1080 [[机房]
+                                        
+                                        
+                                        
+                                        德国 黑森州 法兰克福
+                                        
+                                            [GTELCOM LLC]]
+socks5://134.199.159.23:1080 [[机房]
+                                        
+                                        
+                                        
+                                        澳大利亚 新南威尔士州 悉尼 — DigitalOcean
+                                        
+                                            [DigitalOcean, LLC]]
+socks5://70.39.177.144:5555 [[机房]
+                                        
+                                        
+                                        
+                                        美国 加利福尼亚州 洛杉矶
+                                        
+                                            [GTT Communications Inc.]]
 socks5://80.71.157.157:1080 [[机房]
                                         
                                         
@@ -8,55 +64,6 @@ socks5://80.71.157.157:1080 [[机房]
                                         德国 黑森州 法兰克福
                                         
                                             [WorkTitans B.V.]]
-socks5://45.38.210.208:5555 [[机房]
-                                        
-                                        
-                                        
-                                        新加坡 新加坡 新加坡
-                                        
-                                            [Subnet Digital LLC]]
-socks5://94.198.130.211:1080 [[家宽]
-                                        
-                                        
-                                        
-                                        俄罗斯 莫斯科州 科罗廖夫
-                                        
-                                            [Vermont-IT Internet Service Provider]]
-socks5://94.130.220.31:1080 [[机房]
-                                        
-                                        
-                                        
-                                        德国 萨克森州 法尔肯施泰因 — Hetzner
-                                        
-                                            [Hetzner Online GmbH]]
-socks5://136.244.67.217:1080 [[机房]
-                                        
-                                        
-                                        
-                                        英国 英格兰 伦敦 — Vultr
-                                        
-                                            [Vultr Holdings, LLC]]
-socks5://34.195.109.92:1080 [[机房]
-                                        
-                                        
-                                        
-                                        美国 弗吉尼亚州 阿什本 — 亚马逊云 Aws
-                                        
-                                            [Amazon Technologies Inc.]]
-socks5://185.33.203.14:1080 [[机房]
-                                        
-                                        
-                                        
-                                        俄罗斯 萨马拉州 萨马拉
-                                        
-                                            [Avantel]]
-socks5://57.181.29.178:1080 [[机房]
-                                        
-                                        
-                                        
-                                        日本 东京都 东京 — 亚马逊云 Aws
-                                        
-                                            [Amazon Data Services Japan]]
 socks5://138.197.234.127:1080 [[机房]
                                         
                                         
@@ -64,13 +71,6 @@ socks5://138.197.234.127:1080 [[机房]
                                         美国 加州 圣何塞 — Cloudflare CDN 节点
                                         
                                             [Cloudflare, Inc.]]
-socks5://207.148.127.225:1234 [[机房]
-                                        
-                                        
-                                        
-                                        新加坡 新加坡 新加坡 — Vultr
-                                        
-                                            [SGP_VULTR_CUST]]
 socks5://80.255.6.47:1080 [[家宽]
                                         
                                         
@@ -155,20 +155,6 @@ socks5://23.26.125.56:40000 [[机房]
                                         美国 德克萨斯州 休斯顿 — Cloudflare CDN 节点
                                         
                                             [CLOUDFLAREWARP]]
-socks5://185.125.100.137:1080 [[机房]
-                                        
-                                        
-                                        
-                                        德国 黑森州 法兰克福
-                                        
-                                            [AEZA GROUP LLC]]
-socks5://92.255.76.165:1080 [[机房]
-                                        
-                                        
-                                        
-                                        芬兰 新地区 赫尔辛基
-                                        
-                                            [H2NEXUS LTD]]
 socks5://92.255.110.140:1080 [[机房]
                                         
                                         
@@ -211,3 +197,17 @@ socks5://146.103.125.38:1080 [[机房]
                                         荷兰 北荷兰省 阿姆斯特丹
                                         
                                             [SERVERS TECH FZCO]]
+socks5://88.222.213.240:40000 [[机房]
+                                        
+                                        
+                                        
+                                        印度 马哈拉施特拉邦 孟买 — Cloudflare CDN 节点
+                                        
+                                            [CLOUDFLAREWARP]]
+socks5://46.101.184.29:1080 [[机房]
+                                        
+                                        
+                                        
+                                        德国 黑森州 美因河畔法兰克福 — DigitalOcean
+                                        
+                                            [DIGITALOCEAN]]
